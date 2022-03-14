@@ -1,2 +1,2 @@
 # PL-TP1
-#Coverter CSV file to Json file
+Converter from SV file to Json file
