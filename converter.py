@@ -8,43 +8,20 @@ import csv
 from sqlalchemy import outparam
 
 
-""" file = open('alunos.csv')
-
-type(file)
-
-csvreader = csv.reader(file)
-
-header = []
-header = next(csvreader)
-
-#print (header)
-
-rows = []
-for row in csvreader:
-        rows.append(row)
-
-#print (rows)
-#print (rows[0])
-
-
-
-first_line = re.split(r';',header.strip())
-
-def transform (first_line,linha):
-    linha = re.split(r',', 'alunos.csv')
-    print (linha)
- """
-
-
 def isInt (dados):
         return re.search(r'^(-)?[0-9]+$', dados)
         
 def isNumber (dados):
         return re.search(r'^(-)?[0-9]+(\.[0-9]+)?$', dados)
 
-def isList (dados): #Notas{2} notas trabalhos práticos
-        #output -> "Notas" : [12,13],
+def isList1 (dados): 
         return re.search(r'\w+{\d}', dados)  #[A-Za-z]
+
+def isList2 (dados): 
+        return re.search(r'\w+{\d', dados)  #[A-Za-z] \w+{\d,\d}
+
+def extraList2 (dados): #campo extra do tipo de lista 2 {2,4} -> 4}
+        return re.search(r'\d}', dados)
 
 def calculaAvg(dados, campo, separator_lista):
     lista = re.split(separator_lista, dados)
@@ -85,12 +62,46 @@ def converter (csv, fileOutput, separator, separator_lista):
                 output += ("{\n")
                 valores = re.split(separator, line.strip())
                 for i in range(len(campos)):
-                        if not (isList(campos[i])): 
+                        #print(campos[i])
+                        if not (isList1(campos[i])):
                                 if campos[i] == '':
                                         pass
+                                elif extraList2(campos[i]):
+                                        pass
+                                
+                                elif isList2(campos[i]):
+                                        #r1 = int ((re.search(r'(\d+)', campos[i])).group(1)) #{2
+                                        r2 = int ((re.search(r'(\d+)', campos[i+1])).group(1)) #4}
 
-                                else: output += ("\"" + campos[i] + "\": \"" + valores[i] + "\",\n")
-                        elif isList(campos[i]):
+                                        x=0 
+                                        output += ("\"" + campos[i] + "," + campos[i+1] + "\":" + "[")
+                                        while (x+1 < r2):
+                                                output += ( valores[i+x] + ",")
+                                                x+=1
+                                        output += (valores[i+x] +"]\n")
+                                        output = re.sub(r',+\]',']', output)
+                                        
+                                        
+                                        
+                                        #y=r1#-1
+                                        #while (y < r2-1):
+                                                #print ("****"+valores[i+y])
+                                                #if (valores[i+y] == ''):
+                                                       # pass                                                                
+                                                #else:
+                                                        #output += ( "," + valores[i+y] ) 
+                                                        #print("while2:" + valores[i+y])  
+                                                       # y+=1
+                                        #output += ("," + valores[i+y]+"]\n")
+                                        #if (valores[i+y] == ''):
+                                                #output += (valores[i+y]+"]\n")
+                                        #else:
+                                                #output += ("," + valores[i+y]+"]\n")
+                                        #print("fim:" + valores[i+y])
+                                
+                                else:
+                                        output += ("\"" + campos[i] + "\": \"" + valores[i] + "\",\n")
+                        elif isList1(campos[i]):
                                 result = re.search(r'(\d+)', campos[i])
                                 #print (result.group(1))
                                 x=0
@@ -99,6 +110,11 @@ def converter (csv, fileOutput, separator, separator_lista):
                                         output +=( valores[i+x] + ",")
                                         x+=1
                                 output += (valores[i+x]+"]\n")
+                                                
+                                
+
+
+
 
 #                        else:
 #                                valor = re.sub(r"\(", r"", valores[i])  #re.sub(pattern, repl, string, count=0, flags=0)
