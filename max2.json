@@ -1,0 +1,38 @@
+[
+{
+"Número": "1234",
+"Nome": "André Barros",
+"Turno": "PL1",
+"Notas_max": 15
+},
+{
+"Número": "2345",
+"Nome": "Bernardo Cunha",
+"Turno": "PL2",
+"Notas_max": 15
+},
+{
+"Número": "3456",
+"Nome": "Carlos Dias",
+"Turno": "PL3",
+"Notas_max": 15
+},
+{
+"Número": "4567",
+"Nome": "Diogo Eduardo",
+"Turno": "PL4",
+"Notas_max": 10
+},
+{
+"Número": "5678",
+"Nome": "Erick Fernandes",
+"Turno": "PL5",
+"Notas_max": 9
+},
+{
+"Número": "6789",
+"Nome": "Frederico Gil",
+"Turno": "PL6",
+"Notas_max": 14
+}
+]

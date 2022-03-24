@@ -1,12 +1,5 @@
-from distutils.command.build_scripts import first_line_re
-from locale import atoi
 import re
-import sys
-import ply.lex as lex
 import csv
-
-from sqlalchemy import outparam
-
 
 def isInt (dados):
         return re.search(r'^(-)?[0-9]+$', dados)
@@ -44,6 +37,32 @@ def calculaSum(dados, campo):
     return ("\"" + campo + "\": " + str(soma))
 
 
+#### EXTRAS #####
+def calculaMax(dados, campo):
+    lista = list()
+    for dado in dados:
+       if isInt(dado):
+            lista.append (int(dado))
+       else:
+            pass
+    maximo = max(lista)
+    campo = re.sub(r'{\d+(}::max)?', r'_max', campo)
+    return ("\"" + campo + "\": " + str(maximo))
+
+
+def calculaMin(dados, campo):
+    lista = list()
+    for dado in dados:
+       if isInt(dado):
+            lista.append (int(dado))
+       else:
+            pass
+    minimo = min(lista)
+    campo = re.sub(r'{\d+(}::min)?', r'_min', campo)
+    return ("\"" + campo + "\": " + str(minimo))
+################################################
+
+
 
 def converter (csv, fileOutput, separator):
         file = open(csv)
@@ -71,6 +90,15 @@ def converter (csv, fileOutput, separator):
                                         valor = valores[i:]
                                         output += calculaSum(valor, campos[i])
                                         output += ",\n"
+                                elif re.search(r'[Mm][Aa][Xx]', campos[i]):
+                                        valor = valores[i:]
+                                        output += calculaMax(valor, campos[i])
+                                        output += ",\n"
+
+                                elif re.search(r'[Mm][Ii][Nn]', campos[i]):
+                                        valor = valores[i:]
+                                        output += calculaMin(valor, campos[i])
+                                        output += ",\n"
 
                                 else:
                                         result = re.search(r'(\d+)', campos[i])
@@ -96,6 +124,15 @@ def converter (csv, fileOutput, separator):
                                 elif re.search(r'[Ss][Uu][Mm]', campos[i+1]):
                                         valor = valores[i:]
                                         output += calculaSum(valor, campos[i])
+                                        output += ",\n"
+                                elif re.search(r'[Mm][Aa][Xx]', campos[i+1]):
+                                        valor = valores[i:]
+                                        output += calculaMax(valor, campos[i])
+                                        output += ",\n"
+
+                                elif re.search(r'[Mm][Ii][Nn]', campos[i+1]):
+                                        valor = valores[i:]
+                                        output += calculaMin(valor, campos[i])
                                         output += ",\n"
 
                                 else:
