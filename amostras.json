@@ -1,0 +1,6833 @@
+[
+{
+"data": "26-02-2020",
+"amostras": "",
+"amostras_novas": "",
+"amostras_pcr": "",
+"amostras_pcr_novas": "",
+"amostras_antigenio": "",
+"amostras_antigenio_novas": ""
+},
+{
+"data": "27-02-2020",
+"amostras": "",
+"amostras_novas": "",
+"amostras_pcr": "",
+"amostras_pcr_novas": "",
+"amostras_antigenio": "",
+"amostras_antigenio_novas": ""
+},
+{
+"data": "28-02-2020",
+"amostras": "",
+"amostras_novas": "",
+"amostras_pcr": "",
+"amostras_pcr_novas": "",
+"amostras_antigenio": "",
+"amostras_antigenio_novas": ""
+},
+{
+"data": "29-02-2020",
+"amostras": "",
+"amostras_novas": "",
+"amostras_pcr": "",
+"amostras_pcr_novas": "",
+"amostras_antigenio": "",
+"amostras_antigenio_novas": ""
+},
+{
+"data": "01-03-2020",
+"amostras": "25",
+"amostras_novas": "25",
+"amostras_pcr": "25",
+"amostras_pcr_novas": "25",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "02-03-2020",
+"amostras": "70",
+"amostras_novas": "45",
+"amostras_pcr": "70",
+"amostras_pcr_novas": "45",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "03-03-2020",
+"amostras": "131",
+"amostras_novas": "61",
+"amostras_pcr": "131",
+"amostras_pcr_novas": "61",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "04-03-2020",
+"amostras": "171",
+"amostras_novas": "40",
+"amostras_pcr": "171",
+"amostras_pcr_novas": "40",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "05-03-2020",
+"amostras": "251",
+"amostras_novas": "80",
+"amostras_pcr": "251",
+"amostras_pcr_novas": "80",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "06-03-2020",
+"amostras": "332",
+"amostras_novas": "81",
+"amostras_pcr": "332",
+"amostras_pcr_novas": "81",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "07-03-2020",
+"amostras": "411",
+"amostras_novas": "79",
+"amostras_pcr": "411",
+"amostras_pcr_novas": "79",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "08-03-2020",
+"amostras": "495",
+"amostras_novas": "84",
+"amostras_pcr": "495",
+"amostras_pcr_novas": "84",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "09-03-2020",
+"amostras": "670",
+"amostras_novas": "175",
+"amostras_pcr": "670",
+"amostras_pcr_novas": "175",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "10-03-2020",
+"amostras": "976",
+"amostras_novas": "306",
+"amostras_pcr": "976",
+"amostras_pcr_novas": "306",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "11-03-2020",
+"amostras": "1556",
+"amostras_novas": "580",
+"amostras_pcr": "1556",
+"amostras_pcr_novas": "580",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "12-03-2020",
+"amostras": "2494",
+"amostras_novas": "938",
+"amostras_pcr": "2494",
+"amostras_pcr_novas": "938",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "13-03-2020",
+"amostras": "4045",
+"amostras_novas": "1551",
+"amostras_pcr": "4045",
+"amostras_pcr_novas": "1551",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "14-03-2020",
+"amostras": "5298",
+"amostras_novas": "1253",
+"amostras_pcr": "5298",
+"amostras_pcr_novas": "1253",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "15-03-2020",
+"amostras": "6249",
+"amostras_novas": "951",
+"amostras_pcr": "6249",
+"amostras_pcr_novas": "951",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "16-03-2020",
+"amostras": "7932",
+"amostras_novas": "1683",
+"amostras_pcr": "7932",
+"amostras_pcr_novas": "1683",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "17-03-2020",
+"amostras": "10236",
+"amostras_novas": "2304",
+"amostras_pcr": "10236",
+"amostras_pcr_novas": "2304",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "18-03-2020",
+"amostras": "12701",
+"amostras_novas": "2465",
+"amostras_pcr": "12701",
+"amostras_pcr_novas": "2465",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "19-03-2020",
+"amostras": "15199",
+"amostras_novas": "2498",
+"amostras_pcr": "15199",
+"amostras_pcr_novas": "2498",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "20-03-2020",
+"amostras": "18414",
+"amostras_novas": "3215",
+"amostras_pcr": "18414",
+"amostras_pcr_novas": "3215",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "21-03-2020",
+"amostras": "20930",
+"amostras_novas": "2516",
+"amostras_pcr": "20930",
+"amostras_pcr_novas": "2516",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "22-03-2020",
+"amostras": "23039",
+"amostras_novas": "2109",
+"amostras_pcr": "23039",
+"amostras_pcr_novas": "2109",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "23-03-2020",
+"amostras": "27220",
+"amostras_novas": "4181",
+"amostras_pcr": "27220",
+"amostras_pcr_novas": "4181",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "24-03-2020",
+"amostras": "32247",
+"amostras_novas": "5027",
+"amostras_pcr": "32247",
+"amostras_pcr_novas": "5027",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "25-03-2020",
+"amostras": "37566",
+"amostras_novas": "5319",
+"amostras_pcr": "37566",
+"amostras_pcr_novas": "5319",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "26-03-2020",
+"amostras": "44260",
+"amostras_novas": "6694",
+"amostras_pcr": "44260",
+"amostras_pcr_novas": "6694",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "27-03-2020",
+"amostras": "52173",
+"amostras_novas": "7913",
+"amostras_pcr": "52173",
+"amostras_pcr_novas": "7913",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "28-03-2020",
+"amostras": "59066",
+"amostras_novas": "6893",
+"amostras_pcr": "59066",
+"amostras_pcr_novas": "6893",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "29-03-2020",
+"amostras": "64098",
+"amostras_novas": "5032",
+"amostras_pcr": "64098",
+"amostras_pcr_novas": "5032",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "30-03-2020",
+"amostras": "72084",
+"amostras_novas": "7986",
+"amostras_pcr": "72084",
+"amostras_pcr_novas": "7986",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "31-03-2020",
+"amostras": "80046",
+"amostras_novas": "7962",
+"amostras_pcr": "80046",
+"amostras_pcr_novas": "7962",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "01-04-2020",
+"amostras": "88696",
+"amostras_novas": "8650",
+"amostras_pcr": "88696",
+"amostras_pcr_novas": "8650",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "02-04-2020",
+"amostras": "97995",
+"amostras_novas": "9299",
+"amostras_pcr": "97995",
+"amostras_pcr_novas": "9299",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "03-04-2020",
+"amostras": "107474",
+"amostras_novas": "9479",
+"amostras_pcr": "107474",
+"amostras_pcr_novas": "9479",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "04-04-2020",
+"amostras": "116632",
+"amostras_novas": "9158",
+"amostras_pcr": "116632",
+"amostras_pcr_novas": "9158",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "05-04-2020",
+"amostras": "123348",
+"amostras_novas": "6716",
+"amostras_pcr": "123348",
+"amostras_pcr_novas": "6716",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "06-04-2020",
+"amostras": "132717",
+"amostras_novas": "9369",
+"amostras_pcr": "132717",
+"amostras_pcr_novas": "9369",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "07-04-2020",
+"amostras": "143340",
+"amostras_novas": "10623",
+"amostras_pcr": "143340",
+"amostras_pcr_novas": "10623",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "08-04-2020",
+"amostras": "155031",
+"amostras_novas": "11691",
+"amostras_pcr": "155031",
+"amostras_pcr_novas": "11691",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "09-04-2020",
+"amostras": "167240",
+"amostras_novas": "12209",
+"amostras_pcr": "167240",
+"amostras_pcr_novas": "12209",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "10-04-2020",
+"amostras": "177456",
+"amostras_novas": "10216",
+"amostras_pcr": "177456",
+"amostras_pcr_novas": "10216",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "11-04-2020",
+"amostras": "186577",
+"amostras_novas": "9121",
+"amostras_pcr": "186577",
+"amostras_pcr_novas": "9121",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "12-04-2020",
+"amostras": "191787",
+"amostras_novas": "5210",
+"amostras_pcr": "191787",
+"amostras_pcr_novas": "5210",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "13-04-2020",
+"amostras": "200731",
+"amostras_novas": "8944",
+"amostras_pcr": "200731",
+"amostras_pcr_novas": "8944",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "14-04-2020",
+"amostras": "212651",
+"amostras_novas": "11920",
+"amostras_pcr": "212651",
+"amostras_pcr_novas": "11920",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "15-04-2020",
+"amostras": "226300",
+"amostras_novas": "13649",
+"amostras_pcr": "226300",
+"amostras_pcr_novas": "13649",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "16-04-2020",
+"amostras": "239774",
+"amostras_novas": "13474",
+"amostras_pcr": "239774",
+"amostras_pcr_novas": "13474",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "17-04-2020",
+"amostras": "254494",
+"amostras_novas": "14720",
+"amostras_pcr": "254494",
+"amostras_pcr_novas": "14720",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "18-04-2020",
+"amostras": "267289",
+"amostras_novas": "12795",
+"amostras_pcr": "267289",
+"amostras_pcr_novas": "12795",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "19-04-2020",
+"amostras": "276791",
+"amostras_novas": "9502",
+"amostras_pcr": "276791",
+"amostras_pcr_novas": "9502",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "20-04-2020",
+"amostras": "287880",
+"amostras_novas": "11089",
+"amostras_pcr": "287880",
+"amostras_pcr_novas": "11089",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "21-04-2020",
+"amostras": "302810",
+"amostras_novas": "14930",
+"amostras_pcr": "302810",
+"amostras_pcr_novas": "14930",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "22-04-2020",
+"amostras": "318341",
+"amostras_novas": "15531",
+"amostras_pcr": "318341",
+"amostras_pcr_novas": "15531",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "23-04-2020",
+"amostras": "333524",
+"amostras_novas": "15183",
+"amostras_pcr": "333524",
+"amostras_pcr_novas": "15183",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "24-04-2020",
+"amostras": "348341",
+"amostras_novas": "14817",
+"amostras_pcr": "348341",
+"amostras_pcr_novas": "14817",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "25-04-2020",
+"amostras": "361787",
+"amostras_novas": "13446",
+"amostras_pcr": "361787",
+"amostras_pcr_novas": "13446",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "26-04-2020",
+"amostras": "370028",
+"amostras_novas": "8241",
+"amostras_pcr": "370028",
+"amostras_pcr_novas": "8241",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "27-04-2020",
+"amostras": "382235",
+"amostras_novas": "12207",
+"amostras_pcr": "382235",
+"amostras_pcr_novas": "12207",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "28-04-2020",
+"amostras": "397751",
+"amostras_novas": "15516",
+"amostras_pcr": "397751",
+"amostras_pcr_novas": "15516",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "29-04-2020",
+"amostras": "412525",
+"amostras_novas": "14774",
+"amostras_pcr": "412525",
+"amostras_pcr_novas": "14774",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "30-04-2020",
+"amostras": "428963",
+"amostras_novas": "16438",
+"amostras_pcr": "428963",
+"amostras_pcr_novas": "16438",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "01-05-2020",
+"amostras": "441636",
+"amostras_novas": "12673",
+"amostras_pcr": "441636",
+"amostras_pcr_novas": "12673",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "02-05-2020",
+"amostras": "452219",
+"amostras_novas": "10583",
+"amostras_pcr": "452219",
+"amostras_pcr_novas": "10583",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "03-05-2020",
+"amostras": "460659",
+"amostras_novas": "8440",
+"amostras_pcr": "460659",
+"amostras_pcr_novas": "8440",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "04-05-2020",
+"amostras": "472548",
+"amostras_novas": "11889",
+"amostras_pcr": "472548",
+"amostras_pcr_novas": "11889",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "05-05-2020",
+"amostras": "488705",
+"amostras_novas": "16157",
+"amostras_pcr": "488705",
+"amostras_pcr_novas": "16157",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "06-05-2020",
+"amostras": "504479",
+"amostras_novas": "15774",
+"amostras_pcr": "504479",
+"amostras_pcr_novas": "15774",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "07-05-2020",
+"amostras": "520512",
+"amostras_novas": "16033",
+"amostras_pcr": "520512",
+"amostras_pcr_novas": "16033",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "08-05-2020",
+"amostras": "535940",
+"amostras_novas": "15428",
+"amostras_pcr": "535940",
+"amostras_pcr_novas": "15428",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "09-05-2020",
+"amostras": "549462",
+"amostras_novas": "13522",
+"amostras_pcr": "549462",
+"amostras_pcr_novas": "13522",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "10-05-2020",
+"amostras": "556969",
+"amostras_novas": "7507",
+"amostras_pcr": "556969",
+"amostras_pcr_novas": "7507",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "11-05-2020",
+"amostras": "569706",
+"amostras_novas": "12737",
+"amostras_pcr": "569706",
+"amostras_pcr_novas": "12737",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "12-05-2020",
+"amostras": "586350",
+"amostras_novas": "16644",
+"amostras_pcr": "586350",
+"amostras_pcr_novas": "16644",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "13-05-2020",
+"amostras": "604565",
+"amostras_novas": "18215",
+"amostras_pcr": "604565",
+"amostras_pcr_novas": "18215",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "14-05-2020",
+"amostras": "622894",
+"amostras_novas": "18329",
+"amostras_pcr": "622894",
+"amostras_pcr_novas": "18329",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "15-05-2020",
+"amostras": "643492",
+"amostras_novas": "20598",
+"amostras_pcr": "643492",
+"amostras_pcr_novas": "20598",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "16-05-2020",
+"amostras": "659486",
+"amostras_novas": "15994",
+"amostras_pcr": "659486",
+"amostras_pcr_novas": "15994",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "17-05-2020",
+"amostras": "668456",
+"amostras_novas": "8970",
+"amostras_pcr": "668456",
+"amostras_pcr_novas": "8970",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "18-05-2020",
+"amostras": "680564",
+"amostras_novas": "12108",
+"amostras_pcr": "680564",
+"amostras_pcr_novas": "12108",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "19-05-2020",
+"amostras": "696759",
+"amostras_novas": "16195",
+"amostras_pcr": "696759",
+"amostras_pcr_novas": "16195",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "20-05-2020",
+"amostras": "712201",
+"amostras_novas": "15442",
+"amostras_pcr": "712201",
+"amostras_pcr_novas": "15442",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "21-05-2020",
+"amostras": "727547",
+"amostras_novas": "15346",
+"amostras_pcr": "727547",
+"amostras_pcr_novas": "15346",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "22-05-2020",
+"amostras": "742731",
+"amostras_novas": "15184",
+"amostras_pcr": "742731",
+"amostras_pcr_novas": "15184",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "23-05-2020",
+"amostras": "753514",
+"amostras_novas": "10783",
+"amostras_pcr": "753514",
+"amostras_pcr_novas": "10783",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "24-05-2020",
+"amostras": "759328",
+"amostras_novas": "5814",
+"amostras_pcr": "759328",
+"amostras_pcr_novas": "5814",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "25-05-2020",
+"amostras": "771258",
+"amostras_novas": "11930",
+"amostras_pcr": "771258",
+"amostras_pcr_novas": "11930",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "26-05-2020",
+"amostras": "786363",
+"amostras_novas": "15105",
+"amostras_pcr": "786363",
+"amostras_pcr_novas": "15105",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "27-05-2020",
+"amostras": "803584",
+"amostras_novas": "17221",
+"amostras_pcr": "803584",
+"amostras_pcr_novas": "17221",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "28-05-2020",
+"amostras": "820547",
+"amostras_novas": "16963",
+"amostras_pcr": "820547",
+"amostras_pcr_novas": "16963",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "29-05-2020",
+"amostras": "836682",
+"amostras_novas": "16135",
+"amostras_pcr": "836682",
+"amostras_pcr_novas": "16135",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "30-05-2020",
+"amostras": "849332",
+"amostras_novas": "12650",
+"amostras_pcr": "849332",
+"amostras_pcr_novas": "12650",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "31-05-2020",
+"amostras": "855879",
+"amostras_novas": "6547",
+"amostras_pcr": "855879",
+"amostras_pcr_novas": "6547",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "01-06-2020",
+"amostras": "867514",
+"amostras_novas": "11635",
+"amostras_pcr": "867514",
+"amostras_pcr_novas": "11635",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "02-06-2020",
+"amostras": "883154",
+"amostras_novas": "15640",
+"amostras_pcr": "883154",
+"amostras_pcr_novas": "15640",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "03-06-2020",
+"amostras": "900384",
+"amostras_novas": "17230",
+"amostras_pcr": "900384",
+"amostras_pcr_novas": "17230",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "04-06-2020",
+"amostras": "917591",
+"amostras_novas": "17207",
+"amostras_pcr": "917591",
+"amostras_pcr_novas": "17207",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "05-06-2020",
+"amostras": "932900",
+"amostras_novas": "15309",
+"amostras_pcr": "932900",
+"amostras_pcr_novas": "15309",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "06-06-2020",
+"amostras": "944336",
+"amostras_novas": "11436",
+"amostras_pcr": "944336",
+"amostras_pcr_novas": "11436",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "07-06-2020",
+"amostras": "950950",
+"amostras_novas": "6614",
+"amostras_pcr": "950950",
+"amostras_pcr_novas": "6614",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "08-06-2020",
+"amostras": "962160",
+"amostras_novas": "11210",
+"amostras_pcr": "962160",
+"amostras_pcr_novas": "11210",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "09-06-2020",
+"amostras": "975681",
+"amostras_novas": "13521",
+"amostras_pcr": "975681",
+"amostras_pcr_novas": "13521",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "10-06-2020",
+"amostras": "983389",
+"amostras_novas": "7708",
+"amostras_pcr": "983389",
+"amostras_pcr_novas": "7708",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "11-06-2020",
+"amostras": "988153",
+"amostras_novas": "4764",
+"amostras_pcr": "988153",
+"amostras_pcr_novas": "4764",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "12-06-2020",
+"amostras": "999066",
+"amostras_novas": "10913",
+"amostras_pcr": "999066",
+"amostras_pcr_novas": "10913",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "13-06-2020",
+"amostras": "1007039",
+"amostras_novas": "7973",
+"amostras_pcr": "1007039",
+"amostras_pcr_novas": "7973",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "14-06-2020",
+"amostras": "1011793",
+"amostras_novas": "4754",
+"amostras_pcr": "1011793",
+"amostras_pcr_novas": "4754",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "15-06-2020",
+"amostras": "1023036",
+"amostras_novas": "11243",
+"amostras_pcr": "1023036",
+"amostras_pcr_novas": "11243",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "16-06-2020",
+"amostras": "1037801",
+"amostras_novas": "14765",
+"amostras_pcr": "1037801",
+"amostras_pcr_novas": "14765",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "17-06-2020",
+"amostras": "1052868",
+"amostras_novas": "15067",
+"amostras_pcr": "1052868",
+"amostras_pcr_novas": "15067",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "18-06-2020",
+"amostras": "1066559",
+"amostras_novas": "13691",
+"amostras_pcr": "1066559",
+"amostras_pcr_novas": "13691",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "19-06-2020",
+"amostras": "1081272",
+"amostras_novas": "14713",
+"amostras_pcr": "1081272",
+"amostras_pcr_novas": "14713",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "20-06-2020",
+"amostras": "1090308",
+"amostras_novas": "9036",
+"amostras_pcr": "1090308",
+"amostras_pcr_novas": "9036",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "21-06-2020",
+"amostras": "1096953",
+"amostras_novas": "6645",
+"amostras_pcr": "1096953",
+"amostras_pcr_novas": "6645",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "22-06-2020",
+"amostras": "1108979",
+"amostras_novas": "12026",
+"amostras_pcr": "1108979",
+"amostras_pcr_novas": "12026",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "23-06-2020",
+"amostras": "1124863",
+"amostras_novas": "15884",
+"amostras_pcr": "1124863",
+"amostras_pcr_novas": "15884",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "24-06-2020",
+"amostras": "1138788",
+"amostras_novas": "13925",
+"amostras_pcr": "1138788",
+"amostras_pcr_novas": "13925",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "25-06-2020",
+"amostras": "1152367",
+"amostras_novas": "13579",
+"amostras_pcr": "1152367",
+"amostras_pcr_novas": "13579",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "26-06-2020",
+"amostras": "1168133",
+"amostras_novas": "15766",
+"amostras_pcr": "1168133",
+"amostras_pcr_novas": "15766",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "27-06-2020",
+"amostras": "1178485",
+"amostras_novas": "10352",
+"amostras_pcr": "1178485",
+"amostras_pcr_novas": "10352",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "28-06-2020",
+"amostras": "1184838",
+"amostras_novas": "6353",
+"amostras_pcr": "1184838",
+"amostras_pcr_novas": "6353",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "29-06-2020",
+"amostras": "1197379",
+"amostras_novas": "12541",
+"amostras_pcr": "1197379",
+"amostras_pcr_novas": "12541",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "30-06-2020",
+"amostras": "1213284",
+"amostras_novas": "15905",
+"amostras_pcr": "1213284",
+"amostras_pcr_novas": "15905",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "01-07-2020",
+"amostras": "1229740",
+"amostras_novas": "16456",
+"amostras_pcr": "1229740",
+"amostras_pcr_novas": "16456",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "02-07-2020",
+"amostras": "1245275",
+"amostras_novas": "15535",
+"amostras_pcr": "1245275",
+"amostras_pcr_novas": "15535",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "03-07-2020",
+"amostras": "1260187",
+"amostras_novas": "14912",
+"amostras_pcr": "1260187",
+"amostras_pcr_novas": "14912",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "04-07-2020",
+"amostras": "1273082",
+"amostras_novas": "12895",
+"amostras_pcr": "1273082",
+"amostras_pcr_novas": "12895",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "05-07-2020",
+"amostras": "1280126",
+"amostras_novas": "7044",
+"amostras_pcr": "1280126",
+"amostras_pcr_novas": "7044",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "06-07-2020",
+"amostras": "1292333",
+"amostras_novas": "12207",
+"amostras_pcr": "1292333",
+"amostras_pcr_novas": "12207",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "07-07-2020",
+"amostras": "1309023",
+"amostras_novas": "16690",
+"amostras_pcr": "1309023",
+"amostras_pcr_novas": "16690",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "08-07-2020",
+"amostras": "1326203",
+"amostras_novas": "17180",
+"amostras_pcr": "1326203",
+"amostras_pcr_novas": "17180",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "09-07-2020",
+"amostras": "1341461",
+"amostras_novas": "15258",
+"amostras_pcr": "1341461",
+"amostras_pcr_novas": "15258",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "10-07-2020",
+"amostras": "1357268",
+"amostras_novas": "15807",
+"amostras_pcr": "1357268",
+"amostras_pcr_novas": "15807",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "11-07-2020",
+"amostras": "1369504",
+"amostras_novas": "12236",
+"amostras_pcr": "1369504",
+"amostras_pcr_novas": "12236",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "12-07-2020",
+"amostras": "1376134",
+"amostras_novas": "6630",
+"amostras_pcr": "1376134",
+"amostras_pcr_novas": "6630",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "13-07-2020",
+"amostras": "1389313",
+"amostras_novas": "13179",
+"amostras_pcr": "1389313",
+"amostras_pcr_novas": "13179",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "14-07-2020",
+"amostras": "1407557",
+"amostras_novas": "18244",
+"amostras_pcr": "1407557",
+"amostras_pcr_novas": "18244",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "15-07-2020",
+"amostras": "1423731",
+"amostras_novas": "16174",
+"amostras_pcr": "1423731",
+"amostras_pcr_novas": "16174",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "16-07-2020",
+"amostras": "1439402",
+"amostras_novas": "15671",
+"amostras_pcr": "1439402",
+"amostras_pcr_novas": "15671",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "17-07-2020",
+"amostras": "1455468",
+"amostras_novas": "16066",
+"amostras_pcr": "1455468",
+"amostras_pcr_novas": "16066",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "18-07-2020",
+"amostras": "1467990",
+"amostras_novas": "12522",
+"amostras_pcr": "1467990",
+"amostras_pcr_novas": "12522",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "19-07-2020",
+"amostras": "1475526",
+"amostras_novas": "7536",
+"amostras_pcr": "1475526",
+"amostras_pcr_novas": "7536",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "20-07-2020",
+"amostras": "1489188",
+"amostras_novas": "13662",
+"amostras_pcr": "1489188",
+"amostras_pcr_novas": "13662",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "21-07-2020",
+"amostras": "1506400",
+"amostras_novas": "17212",
+"amostras_pcr": "1506400",
+"amostras_pcr_novas": "17212",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "22-07-2020",
+"amostras": "1522147",
+"amostras_novas": "15747",
+"amostras_pcr": "1522147",
+"amostras_pcr_novas": "15747",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "23-07-2020",
+"amostras": "1537906",
+"amostras_novas": "15759",
+"amostras_pcr": "1537906",
+"amostras_pcr_novas": "15759",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "24-07-2020",
+"amostras": "1553152",
+"amostras_novas": "15246",
+"amostras_pcr": "1553152",
+"amostras_pcr_novas": "15246",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "25-07-2020",
+"amostras": "1564987",
+"amostras_novas": "11835",
+"amostras_pcr": "1564987",
+"amostras_pcr_novas": "11835",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "26-07-2020",
+"amostras": "1571409",
+"amostras_novas": "6422",
+"amostras_pcr": "1571409",
+"amostras_pcr_novas": "6422",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "27-07-2020",
+"amostras": "1584742",
+"amostras_novas": "13333",
+"amostras_pcr": "1584742",
+"amostras_pcr_novas": "13333",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "28-07-2020",
+"amostras": "1601697",
+"amostras_novas": "16955",
+"amostras_pcr": "1601697",
+"amostras_pcr_novas": "16955",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "29-07-2020",
+"amostras": "1618409",
+"amostras_novas": "16712",
+"amostras_pcr": "1618409",
+"amostras_pcr_novas": "16712",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "30-07-2020",
+"amostras": "1633147",
+"amostras_novas": "14738",
+"amostras_pcr": "1633147",
+"amostras_pcr_novas": "14738",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "31-07-2020",
+"amostras": "1648558",
+"amostras_novas": "15411",
+"amostras_pcr": "1648558",
+"amostras_pcr_novas": "15411",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "01-08-2020",
+"amostras": "1660708",
+"amostras_novas": "12150",
+"amostras_pcr": "1660708",
+"amostras_pcr_novas": "12150",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "02-08-2020",
+"amostras": "1667828",
+"amostras_novas": "7120",
+"amostras_pcr": "1667828",
+"amostras_pcr_novas": "7120",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "03-08-2020",
+"amostras": "1682148",
+"amostras_novas": "14320",
+"amostras_pcr": "1682148",
+"amostras_pcr_novas": "14320",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "04-08-2020",
+"amostras": "1699438",
+"amostras_novas": "17290",
+"amostras_pcr": "1699438",
+"amostras_pcr_novas": "17290",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "05-08-2020",
+"amostras": "1716598",
+"amostras_novas": "17160",
+"amostras_pcr": "1716598",
+"amostras_pcr_novas": "17160",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "06-08-2020",
+"amostras": "1731171",
+"amostras_novas": "14573",
+"amostras_pcr": "1731171",
+"amostras_pcr_novas": "14573",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "07-08-2020",
+"amostras": "1746114",
+"amostras_novas": "14943",
+"amostras_pcr": "1746114",
+"amostras_pcr_novas": "14943",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "08-08-2020",
+"amostras": "1756912",
+"amostras_novas": "10798",
+"amostras_pcr": "1756912",
+"amostras_pcr_novas": "10798",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "09-08-2020",
+"amostras": "1765293",
+"amostras_novas": "8381",
+"amostras_pcr": "1765293",
+"amostras_pcr_novas": "8381",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "10-08-2020",
+"amostras": "1778370",
+"amostras_novas": "13077",
+"amostras_pcr": "1778370",
+"amostras_pcr_novas": "13077",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "11-08-2020",
+"amostras": "1795482",
+"amostras_novas": "17112",
+"amostras_pcr": "1795482",
+"amostras_pcr_novas": "17112",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "12-08-2020",
+"amostras": "1811820",
+"amostras_novas": "16338",
+"amostras_pcr": "1811820",
+"amostras_pcr_novas": "16338",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "13-08-2020",
+"amostras": "1826605",
+"amostras_novas": "14785",
+"amostras_pcr": "1826605",
+"amostras_pcr_novas": "14785",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "14-08-2020",
+"amostras": "1842918",
+"amostras_novas": "16313",
+"amostras_pcr": "1842918",
+"amostras_pcr_novas": "16313",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "15-08-2020",
+"amostras": "1853540",
+"amostras_novas": "10622",
+"amostras_pcr": "1853540",
+"amostras_pcr_novas": "10622",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "16-08-2020",
+"amostras": "1861560",
+"amostras_novas": "8020",
+"amostras_pcr": "1861560",
+"amostras_pcr_novas": "8020",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "17-08-2020",
+"amostras": "1875922",
+"amostras_novas": "14362",
+"amostras_pcr": "1875922",
+"amostras_pcr_novas": "14362",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "18-08-2020",
+"amostras": "1894464",
+"amostras_novas": "18542",
+"amostras_pcr": "1894464",
+"amostras_pcr_novas": "18542",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "19-08-2020",
+"amostras": "1911284",
+"amostras_novas": "16820",
+"amostras_pcr": "1911284",
+"amostras_pcr_novas": "16820",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "20-08-2020",
+"amostras": "1925628",
+"amostras_novas": "14344",
+"amostras_pcr": "1925628",
+"amostras_pcr_novas": "14344",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "21-08-2020",
+"amostras": "1940450",
+"amostras_novas": "14822",
+"amostras_pcr": "1940450",
+"amostras_pcr_novas": "14822",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "22-08-2020",
+"amostras": "1951952",
+"amostras_novas": "11502",
+"amostras_pcr": "1951952",
+"amostras_pcr_novas": "11502",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "23-08-2020",
+"amostras": "1960366",
+"amostras_novas": "8414",
+"amostras_pcr": "1960366",
+"amostras_pcr_novas": "8414",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "24-08-2020",
+"amostras": "1974262",
+"amostras_novas": "13896",
+"amostras_pcr": "1974262",
+"amostras_pcr_novas": "13896",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "25-08-2020",
+"amostras": "1992202",
+"amostras_novas": "17940",
+"amostras_pcr": "1992202",
+"amostras_pcr_novas": "17940",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "26-08-2020",
+"amostras": "2008571",
+"amostras_novas": "16369",
+"amostras_pcr": "2008571",
+"amostras_pcr_novas": "16369",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "27-08-2020",
+"amostras": "2023568",
+"amostras_novas": "14997",
+"amostras_pcr": "2023568",
+"amostras_pcr_novas": "14997",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "28-08-2020",
+"amostras": "2040220",
+"amostras_novas": "16652",
+"amostras_pcr": "2040220",
+"amostras_pcr_novas": "16652",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "29-08-2020",
+"amostras": "2052270",
+"amostras_novas": "12050",
+"amostras_pcr": "2052270",
+"amostras_pcr_novas": "12050",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "30-08-2020",
+"amostras": "2060532",
+"amostras_novas": "8262",
+"amostras_pcr": "2060532",
+"amostras_pcr_novas": "8262",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "31-08-2020",
+"amostras": "2076192",
+"amostras_novas": "15660",
+"amostras_pcr": "2076192",
+"amostras_pcr_novas": "15660",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "01-09-2020",
+"amostras": "2095137",
+"amostras_novas": "18945",
+"amostras_pcr": "2095137",
+"amostras_pcr_novas": "18945",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "02-09-2020",
+"amostras": "2113266",
+"amostras_novas": "18129",
+"amostras_pcr": "2113266",
+"amostras_pcr_novas": "18129",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "03-09-2020",
+"amostras": "2130429",
+"amostras_novas": "17163",
+"amostras_pcr": "2130429",
+"amostras_pcr_novas": "17163",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "04-09-2020",
+"amostras": "2147890",
+"amostras_novas": "17461",
+"amostras_pcr": "2147890",
+"amostras_pcr_novas": "17461",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "05-09-2020",
+"amostras": "2161813",
+"amostras_novas": "13923",
+"amostras_pcr": "2161813",
+"amostras_pcr_novas": "13923",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "06-09-2020",
+"amostras": "2171303",
+"amostras_novas": "9490",
+"amostras_pcr": "2171303",
+"amostras_pcr_novas": "9490",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "07-09-2020",
+"amostras": "2186985",
+"amostras_novas": "15682",
+"amostras_pcr": "2186985",
+"amostras_pcr_novas": "15682",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "08-09-2020",
+"amostras": "2208088",
+"amostras_novas": "21103",
+"amostras_pcr": "2208088",
+"amostras_pcr_novas": "21103",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "09-09-2020",
+"amostras": "2229812",
+"amostras_novas": "21724",
+"amostras_pcr": "2229812",
+"amostras_pcr_novas": "21724",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "10-09-2020",
+"amostras": "2249785",
+"amostras_novas": "19973",
+"amostras_pcr": "2249785",
+"amostras_pcr_novas": "19973",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "11-09-2020",
+"amostras": "2272063",
+"amostras_novas": "22278",
+"amostras_pcr": "2272063",
+"amostras_pcr_novas": "22278",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "12-09-2020",
+"amostras": "2288591",
+"amostras_novas": "16528",
+"amostras_pcr": "2288591",
+"amostras_pcr_novas": "16528",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "13-09-2020",
+"amostras": "2300687",
+"amostras_novas": "12096",
+"amostras_pcr": "2300687",
+"amostras_pcr_novas": "12096",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "14-09-2020",
+"amostras": "2320088",
+"amostras_novas": "19401",
+"amostras_pcr": "2320088",
+"amostras_pcr_novas": "19401",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "15-09-2020",
+"amostras": "2343802",
+"amostras_novas": "23714",
+"amostras_pcr": "2343802",
+"amostras_pcr_novas": "23714",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "16-09-2020",
+"amostras": "2367667",
+"amostras_novas": "23865",
+"amostras_pcr": "2367667",
+"amostras_pcr_novas": "23865",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "17-09-2020",
+"amostras": "2389366",
+"amostras_novas": "21699",
+"amostras_pcr": "2389366",
+"amostras_pcr_novas": "21699",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "18-09-2020",
+"amostras": "2411474",
+"amostras_novas": "22108",
+"amostras_pcr": "2411474",
+"amostras_pcr_novas": "22108",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "19-09-2020",
+"amostras": "2427645",
+"amostras_novas": "16171",
+"amostras_pcr": "2427645",
+"amostras_pcr_novas": "16171",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "20-09-2020",
+"amostras": "2438739",
+"amostras_novas": "11094",
+"amostras_pcr": "2438739",
+"amostras_pcr_novas": "11094",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "21-09-2020",
+"amostras": "2458617",
+"amostras_novas": "19878",
+"amostras_pcr": "2458617",
+"amostras_pcr_novas": "19878",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "22-09-2020",
+"amostras": "2482438",
+"amostras_novas": "23821",
+"amostras_pcr": "2482438",
+"amostras_pcr_novas": "23821",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "23-09-2020",
+"amostras": "2505215",
+"amostras_novas": "22777",
+"amostras_pcr": "2505215",
+"amostras_pcr_novas": "22777",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "24-09-2020",
+"amostras": "2526557",
+"amostras_novas": "21342",
+"amostras_pcr": "2526557",
+"amostras_pcr_novas": "21342",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "25-09-2020",
+"amostras": "2550801",
+"amostras_novas": "24244",
+"amostras_pcr": "2550801",
+"amostras_pcr_novas": "24244",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "26-09-2020",
+"amostras": "2568030",
+"amostras_novas": "17229",
+"amostras_pcr": "2568030",
+"amostras_pcr_novas": "17229",
+"amostras_antigenio": "0",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "27-09-2020",
+"amostras": "2579442",
+"amostras_novas": "11412",
+"amostras_pcr": "2579357",
+"amostras_pcr_novas": "11327",
+"amostras_antigenio": "85",
+"amostras_antigenio_novas": "85"
+},
+{
+"data": "28-09-2020",
+"amostras": "2599691",
+"amostras_novas": "20249",
+"amostras_pcr": "2599606",
+"amostras_pcr_novas": "20249",
+"amostras_antigenio": "85",
+"amostras_antigenio_novas": "0"
+},
+{
+"data": "29-09-2020",
+"amostras": "2626242",
+"amostras_novas": "26551",
+"amostras_pcr": "2626137",
+"amostras_pcr_novas": "26531",
+"amostras_antigenio": "105",
+"amostras_antigenio_novas": "20"
+},
+{
+"data": "30-09-2020",
+"amostras": "2652552",
+"amostras_novas": "26310",
+"amostras_pcr": "2652364",
+"amostras_pcr_novas": "26227",
+"amostras_antigenio": "188",
+"amostras_antigenio_novas": "83"
+},
+{
+"data": "01-10-2020",
+"amostras": "2677082",
+"amostras_novas": "24530",
+"amostras_pcr": "2676816",
+"amostras_pcr_novas": "24452",
+"amostras_antigenio": "266",
+"amostras_antigenio_novas": "78"
+},
+{
+"data": "02-10-2020",
+"amostras": "2701780",
+"amostras_novas": "24698",
+"amostras_pcr": "2701439",
+"amostras_pcr_novas": "24623",
+"amostras_antigenio": "341",
+"amostras_antigenio_novas": "75"
+},
+{
+"data": "03-10-2020",
+"amostras": "2719373",
+"amostras_novas": "17593",
+"amostras_pcr": "2718969",
+"amostras_pcr_novas": "17530",
+"amostras_antigenio": "404",
+"amostras_antigenio_novas": "63"
+},
+{
+"data": "04-10-2020",
+"amostras": "2731259",
+"amostras_novas": "11886",
+"amostras_pcr": "2730766",
+"amostras_pcr_novas": "11797",
+"amostras_antigenio": "493",
+"amostras_antigenio_novas": "89"
+},
+{
+"data": "05-10-2020",
+"amostras": "2743047",
+"amostras_novas": "11788",
+"amostras_pcr": "2742541",
+"amostras_pcr_novas": "11775",
+"amostras_antigenio": "506",
+"amostras_antigenio_novas": "13"
+},
+{
+"data": "06-10-2020",
+"amostras": "2766238",
+"amostras_novas": "23191",
+"amostras_pcr": "2765689",
+"amostras_pcr_novas": "23148",
+"amostras_antigenio": "549",
+"amostras_antigenio_novas": "43"
+},
+{
+"data": "07-10-2020",
+"amostras": "2795512",
+"amostras_novas": "29274",
+"amostras_pcr": "2794834",
+"amostras_pcr_novas": "29145",
+"amostras_antigenio": "678",
+"amostras_antigenio_novas": "129"
+},
+{
+"data": "08-10-2020",
+"amostras": "2823258",
+"amostras_novas": "27746",
+"amostras_pcr": "2822531",
+"amostras_pcr_novas": "27697",
+"amostras_antigenio": "727",
+"amostras_antigenio_novas": "49"
+},
+{
+"data": "09-10-2020",
+"amostras": "2852206",
+"amostras_novas": "28948",
+"amostras_pcr": "2851215",
+"amostras_pcr_novas": "28684",
+"amostras_antigenio": "991",
+"amostras_antigenio_novas": "264"
+},
+{
+"data": "10-10-2020",
+"amostras": "2873295",
+"amostras_novas": "21089",
+"amostras_pcr": "2872214",
+"amostras_pcr_novas": "20999",
+"amostras_antigenio": "1081",
+"amostras_antigenio_novas": "90"
+},
+{
+"data": "11-10-2020",
+"amostras": "2886754",
+"amostras_novas": "13459",
+"amostras_pcr": "2885672",
+"amostras_pcr_novas": "13458",
+"amostras_antigenio": "1082",
+"amostras_antigenio_novas": "1"
+},
+{
+"data": "12-10-2020",
+"amostras": "2910097",
+"amostras_novas": "23343",
+"amostras_pcr": "2908834",
+"amostras_pcr_novas": "23162",
+"amostras_antigenio": "1263",
+"amostras_antigenio_novas": "181"
+},
+{
+"data": "13-10-2020",
+"amostras": "2941510",
+"amostras_novas": "31413",
+"amostras_pcr": "2940057",
+"amostras_pcr_novas": "31223",
+"amostras_antigenio": "1453",
+"amostras_antigenio_novas": "190"
+},
+{
+"data": "14-10-2020",
+"amostras": "2973644",
+"amostras_novas": "32134",
+"amostras_pcr": "2971991",
+"amostras_pcr_novas": "31934",
+"amostras_antigenio": "1653",
+"amostras_antigenio_novas": "200"
+},
+{
+"data": "15-10-2020",
+"amostras": "3004790",
+"amostras_novas": "31146",
+"amostras_pcr": "3002919",
+"amostras_pcr_novas": "30928",
+"amostras_antigenio": "1871",
+"amostras_antigenio_novas": "218"
+},
+{
+"data": "16-10-2020",
+"amostras": "3037371",
+"amostras_novas": "32581",
+"amostras_pcr": "3035080",
+"amostras_pcr_novas": "32161",
+"amostras_antigenio": "2291",
+"amostras_antigenio_novas": "420"
+},
+{
+"data": "17-10-2020",
+"amostras": "3061094",
+"amostras_novas": "23723",
+"amostras_pcr": "3058721",
+"amostras_pcr_novas": "23641",
+"amostras_antigenio": "2373",
+"amostras_antigenio_novas": "82"
+},
+{
+"data": "18-10-2020",
+"amostras": "3076200",
+"amostras_novas": "15106",
+"amostras_pcr": "3073825",
+"amostras_pcr_novas": "15104",
+"amostras_antigenio": "2375",
+"amostras_antigenio_novas": "2"
+},
+{
+"data": "19-10-2020",
+"amostras": "3102930",
+"amostras_novas": "26730",
+"amostras_pcr": "3100247",
+"amostras_pcr_novas": "26422",
+"amostras_antigenio": "2683",
+"amostras_antigenio_novas": "308"
+},
+{
+"data": "20-10-2020",
+"amostras": "3136943",
+"amostras_novas": "34013",
+"amostras_pcr": "3133948",
+"amostras_pcr_novas": "33701",
+"amostras_antigenio": "2995",
+"amostras_antigenio_novas": "312"
+},
+{
+"data": "21-10-2020",
+"amostras": "3170995",
+"amostras_novas": "34052",
+"amostras_pcr": "3167421",
+"amostras_pcr_novas": "33473",
+"amostras_antigenio": "3574",
+"amostras_antigenio_novas": "579"
+},
+{
+"data": "22-10-2020",
+"amostras": "3203860",
+"amostras_novas": "32865",
+"amostras_pcr": "3199916",
+"amostras_pcr_novas": "32495",
+"amostras_antigenio": "3944",
+"amostras_antigenio_novas": "370"
+},
+{
+"data": "23-10-2020",
+"amostras": "3237564",
+"amostras_novas": "33704",
+"amostras_pcr": "3233096",
+"amostras_pcr_novas": "33180",
+"amostras_antigenio": "4468",
+"amostras_antigenio_novas": "524"
+},
+{
+"data": "24-10-2020",
+"amostras": "3263443",
+"amostras_novas": "25879",
+"amostras_pcr": "3258908",
+"amostras_pcr_novas": "25812",
+"amostras_antigenio": "4535",
+"amostras_antigenio_novas": "67"
+},
+{
+"data": "25-10-2020",
+"amostras": "3280897",
+"amostras_novas": "17454",
+"amostras_pcr": "3276293",
+"amostras_pcr_novas": "17385",
+"amostras_antigenio": "4604",
+"amostras_antigenio_novas": "69"
+},
+{
+"data": "26-10-2020",
+"amostras": "3309147",
+"amostras_novas": "28250",
+"amostras_pcr": "3304070",
+"amostras_pcr_novas": "27777",
+"amostras_antigenio": "5077",
+"amostras_antigenio_novas": "473"
+},
+{
+"data": "27-10-2020",
+"amostras": "3345255",
+"amostras_novas": "36108",
+"amostras_pcr": "3339719",
+"amostras_pcr_novas": "35649",
+"amostras_antigenio": "5536",
+"amostras_antigenio_novas": "459"
+},
+{
+"data": "28-10-2020",
+"amostras": "3381864",
+"amostras_novas": "36609",
+"amostras_pcr": "3375689",
+"amostras_pcr_novas": "35970",
+"amostras_antigenio": "6175",
+"amostras_antigenio_novas": "639"
+},
+{
+"data": "29-10-2020",
+"amostras": "3419095",
+"amostras_novas": "37231",
+"amostras_pcr": "3412342",
+"amostras_pcr_novas": "36653",
+"amostras_antigenio": "6753",
+"amostras_antigenio_novas": "578"
+},
+{
+"data": "30-10-2020",
+"amostras": "3457766",
+"amostras_novas": "38671",
+"amostras_pcr": "3450126",
+"amostras_pcr_novas": "37784",
+"amostras_antigenio": "7640",
+"amostras_antigenio_novas": "887"
+},
+{
+"data": "31-10-2020",
+"amostras": "3489394",
+"amostras_novas": "31628",
+"amostras_pcr": "3481422",
+"amostras_pcr_novas": "31296",
+"amostras_antigenio": "7972",
+"amostras_antigenio_novas": "332"
+},
+{
+"data": "01-11-2020",
+"amostras": "3512014",
+"amostras_novas": "22620",
+"amostras_pcr": "3504015",
+"amostras_pcr_novas": "22593",
+"amostras_antigenio": "7999",
+"amostras_antigenio_novas": "27"
+},
+{
+"data": "02-11-2020",
+"amostras": "3542464",
+"amostras_novas": "30450",
+"amostras_pcr": "3533606",
+"amostras_pcr_novas": "29591",
+"amostras_antigenio": "8858",
+"amostras_antigenio_novas": "859"
+},
+{
+"data": "03-11-2020",
+"amostras": "3583901",
+"amostras_novas": "41437",
+"amostras_pcr": "3574389",
+"amostras_pcr_novas": "40783",
+"amostras_antigenio": "9512",
+"amostras_antigenio_novas": "654"
+},
+{
+"data": "04-11-2020",
+"amostras": "3625701",
+"amostras_novas": "41800",
+"amostras_pcr": "3615306",
+"amostras_pcr_novas": "40917",
+"amostras_antigenio": "10395",
+"amostras_antigenio_novas": "883"
+},
+{
+"data": "05-11-2020",
+"amostras": "3667727",
+"amostras_novas": "42026",
+"amostras_pcr": "3656593",
+"amostras_pcr_novas": "41287",
+"amostras_antigenio": "11134",
+"amostras_antigenio_novas": "739"
+},
+{
+"data": "06-11-2020",
+"amostras": "3710314",
+"amostras_novas": "42587",
+"amostras_pcr": "3698188",
+"amostras_pcr_novas": "41595",
+"amostras_antigenio": "12126",
+"amostras_antigenio_novas": "992"
+},
+{
+"data": "07-11-2020",
+"amostras": "3743800",
+"amostras_novas": "33486",
+"amostras_pcr": "3730894",
+"amostras_pcr_novas": "32706",
+"amostras_antigenio": "12906",
+"amostras_antigenio_novas": "780"
+},
+{
+"data": "08-11-2020",
+"amostras": "3765931",
+"amostras_novas": "22131",
+"amostras_pcr": "3752951",
+"amostras_pcr_novas": "22057",
+"amostras_antigenio": "12980",
+"amostras_antigenio_novas": "74"
+},
+{
+"data": "09-11-2020",
+"amostras": "3799283",
+"amostras_novas": "33352",
+"amostras_pcr": "3785146",
+"amostras_pcr_novas": "32195",
+"amostras_antigenio": "14137",
+"amostras_antigenio_novas": "1157"
+},
+{
+"data": "10-11-2020",
+"amostras": "3840366",
+"amostras_novas": "41083",
+"amostras_pcr": "3824755",
+"amostras_pcr_novas": "39609",
+"amostras_antigenio": "15611",
+"amostras_antigenio_novas": "1474"
+},
+{
+"data": "11-11-2020",
+"amostras": "3884203",
+"amostras_novas": "43837",
+"amostras_pcr": "3867058",
+"amostras_pcr_novas": "42303",
+"amostras_antigenio": "17145",
+"amostras_antigenio_novas": "1534"
+},
+{
+"data": "12-11-2020",
+"amostras": "3928622",
+"amostras_novas": "44419",
+"amostras_pcr": "3910133",
+"amostras_pcr_novas": "43075",
+"amostras_antigenio": "18489",
+"amostras_antigenio_novas": "1344"
+},
+{
+"data": "13-11-2020",
+"amostras": "3978237",
+"amostras_novas": "49615",
+"amostras_pcr": "3957013",
+"amostras_pcr_novas": "46880",
+"amostras_antigenio": "21224",
+"amostras_antigenio_novas": "2735"
+},
+{
+"data": "14-11-2020",
+"amostras": "4012093",
+"amostras_novas": "33856",
+"amostras_pcr": "3989618",
+"amostras_pcr_novas": "32605",
+"amostras_antigenio": "22475",
+"amostras_antigenio_novas": "1251"
+},
+{
+"data": "15-11-2020",
+"amostras": "4035210",
+"amostras_novas": "23117",
+"amostras_pcr": "4012588",
+"amostras_pcr_novas": "22970",
+"amostras_antigenio": "22622",
+"amostras_antigenio_novas": "147"
+},
+{
+"data": "16-11-2020",
+"amostras": "4072707",
+"amostras_novas": "37497",
+"amostras_pcr": "4048032",
+"amostras_pcr_novas": "35444",
+"amostras_antigenio": "24675",
+"amostras_antigenio_novas": "2053"
+},
+{
+"data": "17-11-2020",
+"amostras": "4118007",
+"amostras_novas": "45300",
+"amostras_pcr": "4091242",
+"amostras_pcr_novas": "43210",
+"amostras_antigenio": "26765",
+"amostras_antigenio_novas": "2090"
+},
+{
+"data": "18-11-2020",
+"amostras": "4166960",
+"amostras_novas": "48953",
+"amostras_pcr": "4137501",
+"amostras_pcr_novas": "46259",
+"amostras_antigenio": "29459",
+"amostras_antigenio_novas": "2694"
+},
+{
+"data": "19-11-2020",
+"amostras": "4214566",
+"amostras_novas": "47606",
+"amostras_pcr": "4182833",
+"amostras_pcr_novas": "45332",
+"amostras_antigenio": "31733",
+"amostras_antigenio_novas": "2274"
+},
+{
+"data": "20-11-2020",
+"amostras": "4261189",
+"amostras_novas": "46623",
+"amostras_pcr": "4226346",
+"amostras_pcr_novas": "43513",
+"amostras_antigenio": "34843",
+"amostras_antigenio_novas": "3110"
+},
+{
+"data": "21-11-2020",
+"amostras": "4296063",
+"amostras_novas": "34874",
+"amostras_pcr": "4260082",
+"amostras_pcr_novas": "33736",
+"amostras_antigenio": "35981",
+"amostras_antigenio_novas": "1138"
+},
+{
+"data": "22-11-2020",
+"amostras": "4322203",
+"amostras_novas": "26140",
+"amostras_pcr": "4286030",
+"amostras_pcr_novas": "25948",
+"amostras_antigenio": "36173",
+"amostras_antigenio_novas": "192"
+},
+{
+"data": "23-11-2020",
+"amostras": "4356032",
+"amostras_novas": "33829",
+"amostras_pcr": "4316798",
+"amostras_pcr_novas": "30768",
+"amostras_antigenio": "39234",
+"amostras_antigenio_novas": "3061"
+},
+{
+"data": "24-11-2020",
+"amostras": "4403437",
+"amostras_novas": "47405",
+"amostras_pcr": "4361524",
+"amostras_pcr_novas": "44726",
+"amostras_antigenio": "41913",
+"amostras_antigenio_novas": "2679"
+},
+{
+"data": "25-11-2020",
+"amostras": "4450244",
+"amostras_novas": "46807",
+"amostras_pcr": "4405712",
+"amostras_pcr_novas": "44188",
+"amostras_antigenio": "44532",
+"amostras_antigenio_novas": "2619"
+},
+{
+"data": "26-11-2020",
+"amostras": "4495080",
+"amostras_novas": "44836",
+"amostras_pcr": "4447970",
+"amostras_pcr_novas": "42258",
+"amostras_antigenio": "47110",
+"amostras_antigenio_novas": "2578"
+},
+{
+"data": "27-11-2020",
+"amostras": "4540215",
+"amostras_novas": "45135",
+"amostras_pcr": "4490112",
+"amostras_pcr_novas": "42142",
+"amostras_antigenio": "50103",
+"amostras_antigenio_novas": "2993"
+},
+{
+"data": "28-11-2020",
+"amostras": "4571959",
+"amostras_novas": "31744",
+"amostras_pcr": "4520068",
+"amostras_pcr_novas": "29956",
+"amostras_antigenio": "51891",
+"amostras_antigenio_novas": "1788"
+},
+{
+"data": "29-11-2020",
+"amostras": "4588893",
+"amostras_novas": "16934",
+"amostras_pcr": "4536772",
+"amostras_pcr_novas": "16704",
+"amostras_antigenio": "52121",
+"amostras_antigenio_novas": "230"
+},
+{
+"data": "30-11-2020",
+"amostras": "4621176",
+"amostras_novas": "32283",
+"amostras_pcr": "4566299",
+"amostras_pcr_novas": "29527",
+"amostras_antigenio": "54877",
+"amostras_antigenio_novas": "2756"
+},
+{
+"data": "01-12-2020",
+"amostras": "4645312",
+"amostras_novas": "24136",
+"amostras_pcr": "4589852",
+"amostras_pcr_novas": "23553",
+"amostras_antigenio": "55460",
+"amostras_antigenio_novas": "583"
+},
+{
+"data": "02-12-2020",
+"amostras": "4682592",
+"amostras_novas": "37280",
+"amostras_pcr": "4623888",
+"amostras_pcr_novas": "34036",
+"amostras_antigenio": "58704",
+"amostras_antigenio_novas": "3244"
+},
+{
+"data": "03-12-2020",
+"amostras": "4726416",
+"amostras_novas": "43824",
+"amostras_pcr": "4664559",
+"amostras_pcr_novas": "40671",
+"amostras_antigenio": "61857",
+"amostras_antigenio_novas": "3153"
+},
+{
+"data": "04-12-2020",
+"amostras": "4769846",
+"amostras_novas": "43430",
+"amostras_pcr": "4704337",
+"amostras_pcr_novas": "39778",
+"amostras_antigenio": "65509",
+"amostras_antigenio_novas": "3652"
+},
+{
+"data": "05-12-2020",
+"amostras": "4797760",
+"amostras_novas": "27914",
+"amostras_pcr": "4730393",
+"amostras_pcr_novas": "26056",
+"amostras_antigenio": "67367",
+"amostras_antigenio_novas": "1858"
+},
+{
+"data": "06-12-2020",
+"amostras": "4813532",
+"amostras_novas": "15772",
+"amostras_pcr": "4745928",
+"amostras_pcr_novas": "15535",
+"amostras_antigenio": "67604",
+"amostras_antigenio_novas": "237"
+},
+{
+"data": "07-12-2020",
+"amostras": "4848498",
+"amostras_novas": "34966",
+"amostras_pcr": "4774201",
+"amostras_pcr_novas": "28273",
+"amostras_antigenio": "74297",
+"amostras_antigenio_novas": "6693"
+},
+{
+"data": "08-12-2020",
+"amostras": "4874589",
+"amostras_novas": "26091",
+"amostras_pcr": "4799254",
+"amostras_pcr_novas": "25053",
+"amostras_antigenio": "75335",
+"amostras_antigenio_novas": "1038"
+},
+{
+"data": "09-12-2020",
+"amostras": "4908994",
+"amostras_novas": "34405",
+"amostras_pcr": "4829984",
+"amostras_pcr_novas": "30730",
+"amostras_antigenio": "79010",
+"amostras_antigenio_novas": "3675"
+},
+{
+"data": "10-12-2020",
+"amostras": "4950845",
+"amostras_novas": "41851",
+"amostras_pcr": "4867252",
+"amostras_pcr_novas": "37268",
+"amostras_antigenio": "83593",
+"amostras_antigenio_novas": "4583"
+},
+{
+"data": "11-12-2020",
+"amostras": "4990234",
+"amostras_novas": "39389",
+"amostras_pcr": "4902628",
+"amostras_pcr_novas": "35376",
+"amostras_antigenio": "87606",
+"amostras_antigenio_novas": "4013"
+},
+{
+"data": "12-12-2020",
+"amostras": "5018141",
+"amostras_novas": "27907",
+"amostras_pcr": "4928807",
+"amostras_pcr_novas": "26179",
+"amostras_antigenio": "89334",
+"amostras_antigenio_novas": "1728"
+},
+{
+"data": "13-12-2020",
+"amostras": "5035533",
+"amostras_novas": "17392",
+"amostras_pcr": "4945873",
+"amostras_pcr_novas": "17066",
+"amostras_antigenio": "89660",
+"amostras_antigenio_novas": "326"
+},
+{
+"data": "14-12-2020",
+"amostras": "5068241",
+"amostras_novas": "32708",
+"amostras_pcr": "4974726",
+"amostras_pcr_novas": "28853",
+"amostras_antigenio": "93515",
+"amostras_antigenio_novas": "3855"
+},
+{
+"data": "15-12-2020",
+"amostras": "5110224",
+"amostras_novas": "41983",
+"amostras_pcr": "5013578",
+"amostras_pcr_novas": "38852",
+"amostras_antigenio": "96646",
+"amostras_antigenio_novas": "3131"
+},
+{
+"data": "16-12-2020",
+"amostras": "5152449",
+"amostras_novas": "42225",
+"amostras_pcr": "5051823",
+"amostras_pcr_novas": "38245",
+"amostras_antigenio": "100626",
+"amostras_antigenio_novas": "3980"
+},
+{
+"data": "17-12-2020",
+"amostras": "5195160",
+"amostras_novas": "42711",
+"amostras_pcr": "5090149",
+"amostras_pcr_novas": "38326",
+"amostras_antigenio": "105011",
+"amostras_antigenio_novas": "4385"
+},
+{
+"data": "18-12-2020",
+"amostras": "5238685",
+"amostras_novas": "43525",
+"amostras_pcr": "5128365",
+"amostras_pcr_novas": "38216",
+"amostras_antigenio": "110320",
+"amostras_antigenio_novas": "5309"
+},
+{
+"data": "19-12-2020",
+"amostras": "5270349",
+"amostras_novas": "31664",
+"amostras_pcr": "5157298",
+"amostras_pcr_novas": "28933",
+"amostras_antigenio": "113051",
+"amostras_antigenio_novas": "2731"
+},
+{
+"data": "20-12-2020",
+"amostras": "5288732",
+"amostras_novas": "18383",
+"amostras_pcr": "5175292",
+"amostras_pcr_novas": "17994",
+"amostras_antigenio": "113440",
+"amostras_antigenio_novas": "389"
+},
+{
+"data": "21-12-2020",
+"amostras": "5329308",
+"amostras_novas": "40576",
+"amostras_pcr": "5209129",
+"amostras_pcr_novas": "33837",
+"amostras_antigenio": "120179",
+"amostras_antigenio_novas": "6739"
+},
+{
+"data": "22-12-2020",
+"amostras": "5382486",
+"amostras_novas": "53178",
+"amostras_pcr": "5254618",
+"amostras_pcr_novas": "45489",
+"amostras_antigenio": "127868",
+"amostras_antigenio_novas": "7689"
+},
+{
+"data": "23-12-2020",
+"amostras": "5441753",
+"amostras_novas": "59267",
+"amostras_pcr": "5300966",
+"amostras_pcr_novas": "46348",
+"amostras_antigenio": "140787",
+"amostras_antigenio_novas": "12919"
+},
+{
+"data": "24-12-2020",
+"amostras": "5475398",
+"amostras_novas": "33645",
+"amostras_pcr": "5329011",
+"amostras_pcr_novas": "28045",
+"amostras_antigenio": "146387",
+"amostras_antigenio_novas": "5600"
+},
+{
+"data": "25-12-2020",
+"amostras": "5484202",
+"amostras_novas": "8804",
+"amostras_pcr": "5337332",
+"amostras_pcr_novas": "8321",
+"amostras_antigenio": "146870",
+"amostras_antigenio_novas": "483"
+},
+{
+"data": "26-12-2020",
+"amostras": "5504124",
+"amostras_novas": "19922",
+"amostras_pcr": "5355419",
+"amostras_pcr_novas": "18087",
+"amostras_antigenio": "148705",
+"amostras_antigenio_novas": "1835"
+},
+{
+"data": "27-12-2020",
+"amostras": "5521565",
+"amostras_novas": "17441",
+"amostras_pcr": "5372189",
+"amostras_pcr_novas": "16770",
+"amostras_antigenio": "149376",
+"amostras_antigenio_novas": "671"
+},
+{
+"data": "28-12-2020",
+"amostras": "5555653",
+"amostras_novas": "34088",
+"amostras_pcr": "5400906",
+"amostras_pcr_novas": "28717",
+"amostras_antigenio": "154747",
+"amostras_antigenio_novas": "5371"
+},
+{
+"data": "29-12-2020",
+"amostras": "5600537",
+"amostras_novas": "44884",
+"amostras_pcr": "5440915",
+"amostras_pcr_novas": "40009",
+"amostras_antigenio": "159622",
+"amostras_antigenio_novas": "4875"
+},
+{
+"data": "30-12-2020",
+"amostras": "5645083",
+"amostras_novas": "44546",
+"amostras_pcr": "5478789",
+"amostras_pcr_novas": "37874",
+"amostras_antigenio": "166294",
+"amostras_antigenio_novas": "6672"
+},
+{
+"data": "31-12-2020",
+"amostras": "5681817",
+"amostras_novas": "36734",
+"amostras_pcr": "5510762",
+"amostras_pcr_novas": "31973",
+"amostras_antigenio": "171055",
+"amostras_antigenio_novas": "4761"
+},
+{
+"data": "01-01-2021",
+"amostras": "5695754",
+"amostras_novas": "13937",
+"amostras_pcr": "5524296",
+"amostras_pcr_novas": "13534",
+"amostras_antigenio": "171458",
+"amostras_antigenio_novas": "403"
+},
+{
+"data": "02-01-2021",
+"amostras": "5728465",
+"amostras_novas": "32711",
+"amostras_pcr": "5552951",
+"amostras_pcr_novas": "28655",
+"amostras_antigenio": "175514",
+"amostras_antigenio_novas": "4056"
+},
+{
+"data": "03-01-2021",
+"amostras": "5749331",
+"amostras_novas": "20866",
+"amostras_pcr": "5572157",
+"amostras_pcr_novas": "19206",
+"amostras_antigenio": "177174",
+"amostras_antigenio_novas": "1660"
+},
+{
+"data": "04-01-2021",
+"amostras": "5794406",
+"amostras_novas": "45075",
+"amostras_pcr": "5607060",
+"amostras_pcr_novas": "34903",
+"amostras_antigenio": "187346",
+"amostras_antigenio_novas": "10172"
+},
+{
+"data": "05-01-2021",
+"amostras": "5850129",
+"amostras_novas": "55723",
+"amostras_pcr": "5655673",
+"amostras_pcr_novas": "48613",
+"amostras_antigenio": "194456",
+"amostras_antigenio_novas": "7110"
+},
+{
+"data": "06-01-2021",
+"amostras": "5905917",
+"amostras_novas": "55788",
+"amostras_pcr": "5703505",
+"amostras_pcr_novas": "47832",
+"amostras_antigenio": "202412",
+"amostras_antigenio_novas": "7956"
+},
+{
+"data": "07-01-2021",
+"amostras": "5960753",
+"amostras_novas": "54836",
+"amostras_pcr": "5749755",
+"amostras_pcr_novas": "46250",
+"amostras_antigenio": "210998",
+"amostras_antigenio_novas": "8586"
+},
+{
+"data": "08-01-2021",
+"amostras": "6016969",
+"amostras_novas": "56216",
+"amostras_pcr": "5796609",
+"amostras_pcr_novas": "46854",
+"amostras_antigenio": "220360",
+"amostras_antigenio_novas": "9362"
+},
+{
+"data": "09-01-2021",
+"amostras": "6060744",
+"amostras_novas": "43775",
+"amostras_pcr": "5834436",
+"amostras_pcr_novas": "37827",
+"amostras_antigenio": "226308",
+"amostras_antigenio_novas": "5948"
+},
+{
+"data": "10-01-2021",
+"amostras": "6085724",
+"amostras_novas": "24980",
+"amostras_pcr": "5856806",
+"amostras_pcr_novas": "22370",
+"amostras_antigenio": "228918",
+"amostras_antigenio_novas": "2610"
+},
+{
+"data": "11-01-2021",
+"amostras": "6133420",
+"amostras_novas": "47696",
+"amostras_pcr": "5894543",
+"amostras_pcr_novas": "37737",
+"amostras_antigenio": "238877",
+"amostras_antigenio_novas": "9959"
+},
+{
+"data": "12-01-2021",
+"amostras": "6191663",
+"amostras_novas": "58243",
+"amostras_pcr": "5945562",
+"amostras_pcr_novas": "51019",
+"amostras_antigenio": "246101",
+"amostras_antigenio_novas": "7224"
+},
+{
+"data": "13-01-2021",
+"amostras": "6250524",
+"amostras_novas": "58861",
+"amostras_pcr": "5995886",
+"amostras_pcr_novas": "50324",
+"amostras_antigenio": "254638",
+"amostras_antigenio_novas": "8537"
+},
+{
+"data": "14-01-2021",
+"amostras": "6310668",
+"amostras_novas": "60144",
+"amostras_pcr": "6048592",
+"amostras_pcr_novas": "52706",
+"amostras_antigenio": "262076",
+"amostras_antigenio_novas": "7438"
+},
+{
+"data": "15-01-2021",
+"amostras": "6373175",
+"amostras_novas": "62507",
+"amostras_pcr": "6102003",
+"amostras_pcr_novas": "53411",
+"amostras_antigenio": "271172",
+"amostras_antigenio_novas": "9096"
+},
+{
+"data": "16-01-2021",
+"amostras": "6423943",
+"amostras_novas": "50768",
+"amostras_pcr": "6148323",
+"amostras_pcr_novas": "46320",
+"amostras_antigenio": "275620",
+"amostras_antigenio_novas": "4448"
+},
+{
+"data": "17-01-2021",
+"amostras": "6455142",
+"amostras_novas": "31199",
+"amostras_pcr": "6177857",
+"amostras_pcr_novas": "29534",
+"amostras_antigenio": "277285",
+"amostras_antigenio_novas": "1665"
+},
+{
+"data": "18-01-2021",
+"amostras": "6508343",
+"amostras_novas": "53201",
+"amostras_pcr": "6220171",
+"amostras_pcr_novas": "42314",
+"amostras_antigenio": "288172",
+"amostras_antigenio_novas": "10887"
+},
+{
+"data": "19-01-2021",
+"amostras": "6580459",
+"amostras_novas": "72116",
+"amostras_pcr": "6280493",
+"amostras_pcr_novas": "60322",
+"amostras_antigenio": "299966",
+"amostras_antigenio_novas": "11794"
+},
+{
+"data": "20-01-2021",
+"amostras": "6655975",
+"amostras_novas": "75516",
+"amostras_pcr": "6344379",
+"amostras_pcr_novas": "63886",
+"amostras_antigenio": "311596",
+"amostras_antigenio_novas": "11630"
+},
+{
+"data": "21-01-2021",
+"amostras": "6726793",
+"amostras_novas": "70818",
+"amostras_pcr": "6403635",
+"amostras_pcr_novas": "59256",
+"amostras_antigenio": "323158",
+"amostras_antigenio_novas": "11562"
+},
+{
+"data": "22-01-2021",
+"amostras": "6803850",
+"amostras_novas": "77057",
+"amostras_pcr": "6467793",
+"amostras_pcr_novas": "64158",
+"amostras_antigenio": "336057",
+"amostras_antigenio_novas": "12899"
+},
+{
+"data": "23-01-2021",
+"amostras": "6866929",
+"amostras_novas": "63079",
+"amostras_pcr": "6520841",
+"amostras_pcr_novas": "53048",
+"amostras_antigenio": "346088",
+"amostras_antigenio_novas": "10031"
+},
+{
+"data": "24-01-2021",
+"amostras": "6905250",
+"amostras_novas": "38321",
+"amostras_pcr": "6557024",
+"amostras_pcr_novas": "36183",
+"amostras_antigenio": "348226",
+"amostras_antigenio_novas": "2138"
+},
+{
+"data": "25-01-2021",
+"amostras": "6960808",
+"amostras_novas": "55558",
+"amostras_pcr": "6600426",
+"amostras_pcr_novas": "43402",
+"amostras_antigenio": "360382",
+"amostras_antigenio_novas": "12156"
+},
+{
+"data": "26-01-2021",
+"amostras": "7035416",
+"amostras_novas": "74608",
+"amostras_pcr": "6664977",
+"amostras_pcr_novas": "64551",
+"amostras_antigenio": "370439",
+"amostras_antigenio_novas": "10057"
+},
+{
+"data": "27-01-2021",
+"amostras": "7106968",
+"amostras_novas": "71552",
+"amostras_pcr": "6727111",
+"amostras_pcr_novas": "62134",
+"amostras_antigenio": "379857",
+"amostras_antigenio_novas": "9418"
+},
+{
+"data": "28-01-2021",
+"amostras": "7176737",
+"amostras_novas": "69769",
+"amostras_pcr": "6788908",
+"amostras_pcr_novas": "61797",
+"amostras_antigenio": "387829",
+"amostras_antigenio_novas": "7972"
+},
+{
+"data": "29-01-2021",
+"amostras": "7244942",
+"amostras_novas": "68205",
+"amostras_pcr": "6847235",
+"amostras_pcr_novas": "58327",
+"amostras_antigenio": "397707",
+"amostras_antigenio_novas": "9878"
+},
+{
+"data": "30-01-2021",
+"amostras": "7296442",
+"amostras_novas": "51500",
+"amostras_pcr": "6893930",
+"amostras_pcr_novas": "46695",
+"amostras_antigenio": "402512",
+"amostras_antigenio_novas": "4805"
+},
+{
+"data": "31-01-2021",
+"amostras": "7322065",
+"amostras_novas": "25623",
+"amostras_pcr": "6917781",
+"amostras_pcr_novas": "23851",
+"amostras_antigenio": "404284",
+"amostras_antigenio_novas": "1772"
+},
+{
+"data": "01-02-2021",
+"amostras": "7369434",
+"amostras_novas": "47369",
+"amostras_pcr": "6956105",
+"amostras_pcr_novas": "38324",
+"amostras_antigenio": "413329",
+"amostras_antigenio_novas": "9045"
+},
+{
+"data": "02-02-2021",
+"amostras": "7427429",
+"amostras_novas": "57995",
+"amostras_pcr": "7006692",
+"amostras_pcr_novas": "50587",
+"amostras_antigenio": "420737",
+"amostras_antigenio_novas": "7408"
+},
+{
+"data": "03-02-2021",
+"amostras": "7480830",
+"amostras_novas": "53401",
+"amostras_pcr": "7052438",
+"amostras_pcr_novas": "45746",
+"amostras_antigenio": "428392",
+"amostras_antigenio_novas": "7655"
+},
+{
+"data": "04-02-2021",
+"amostras": "7531214",
+"amostras_novas": "50384",
+"amostras_pcr": "7094230",
+"amostras_pcr_novas": "41792",
+"amostras_antigenio": "436984",
+"amostras_antigenio_novas": "8592"
+},
+{
+"data": "05-02-2021",
+"amostras": "7580839",
+"amostras_novas": "49625",
+"amostras_pcr": "7133469",
+"amostras_pcr_novas": "39239",
+"amostras_antigenio": "447370",
+"amostras_antigenio_novas": "10386"
+},
+{
+"data": "06-02-2021",
+"amostras": "7611195",
+"amostras_novas": "30356",
+"amostras_pcr": "7160980",
+"amostras_pcr_novas": "27511",
+"amostras_antigenio": "450215",
+"amostras_antigenio_novas": "2845"
+},
+{
+"data": "07-02-2021",
+"amostras": "7626280",
+"amostras_novas": "15085",
+"amostras_pcr": "7175153",
+"amostras_pcr_novas": "14173",
+"amostras_antigenio": "451127",
+"amostras_antigenio_novas": "912"
+},
+{
+"data": "08-02-2021",
+"amostras": "7661203",
+"amostras_novas": "34923",
+"amostras_pcr": "7203750",
+"amostras_pcr_novas": "28597",
+"amostras_antigenio": "457453",
+"amostras_antigenio_novas": "6326"
+},
+{
+"data": "09-02-2021",
+"amostras": "7699897",
+"amostras_novas": "38694",
+"amostras_pcr": "7238236",
+"amostras_pcr_novas": "34486",
+"amostras_antigenio": "461661",
+"amostras_antigenio_novas": "4208"
+},
+{
+"data": "10-02-2021",
+"amostras": "7737518",
+"amostras_novas": "37621",
+"amostras_pcr": "7270454",
+"amostras_pcr_novas": "32218",
+"amostras_antigenio": "467064",
+"amostras_antigenio_novas": "5403"
+},
+{
+"data": "11-02-2021",
+"amostras": "7774865",
+"amostras_novas": "37347",
+"amostras_pcr": "7299531",
+"amostras_pcr_novas": "29077",
+"amostras_antigenio": "475334",
+"amostras_antigenio_novas": "8270"
+},
+{
+"data": "12-02-2021",
+"amostras": "7813617",
+"amostras_novas": "38752",
+"amostras_pcr": "7329461",
+"amostras_pcr_novas": "29930",
+"amostras_antigenio": "484156",
+"amostras_antigenio_novas": "8822"
+},
+{
+"data": "13-02-2021",
+"amostras": "7835100",
+"amostras_novas": "21483",
+"amostras_pcr": "7348150",
+"amostras_pcr_novas": "18689",
+"amostras_antigenio": "486950",
+"amostras_antigenio_novas": "2794"
+},
+{
+"data": "14-02-2021",
+"amostras": "7847200",
+"amostras_novas": "12100",
+"amostras_pcr": "7358642",
+"amostras_pcr_novas": "10492",
+"amostras_antigenio": "488558",
+"amostras_antigenio_novas": "1608"
+},
+{
+"data": "15-02-2021",
+"amostras": "7880335",
+"amostras_novas": "33135",
+"amostras_pcr": "7383794",
+"amostras_pcr_novas": "25152",
+"amostras_antigenio": "496541",
+"amostras_antigenio_novas": "7983"
+},
+{
+"data": "16-02-2021",
+"amostras": "7912418",
+"amostras_novas": "32083",
+"amostras_pcr": "7409416",
+"amostras_pcr_novas": "25622",
+"amostras_antigenio": "503002",
+"amostras_antigenio_novas": "6461"
+},
+{
+"data": "17-02-2021",
+"amostras": "7946772",
+"amostras_novas": "34354",
+"amostras_pcr": "7435313",
+"amostras_pcr_novas": "25897",
+"amostras_antigenio": "511459",
+"amostras_antigenio_novas": "8457"
+},
+{
+"data": "18-02-2021",
+"amostras": "7980757",
+"amostras_novas": "33985",
+"amostras_pcr": "7460859",
+"amostras_pcr_novas": "25546",
+"amostras_antigenio": "519898",
+"amostras_antigenio_novas": "8439"
+},
+{
+"data": "19-02-2021",
+"amostras": "8014644",
+"amostras_novas": "33887",
+"amostras_pcr": "7486810",
+"amostras_pcr_novas": "25951",
+"amostras_antigenio": "527834",
+"amostras_antigenio_novas": "7936"
+},
+{
+"data": "20-02-2021",
+"amostras": "8036492",
+"amostras_novas": "21848",
+"amostras_pcr": "7505505",
+"amostras_pcr_novas": "18695",
+"amostras_antigenio": "530987",
+"amostras_antigenio_novas": "3153"
+},
+{
+"data": "21-02-2021",
+"amostras": "8047346",
+"amostras_novas": "10854",
+"amostras_pcr": "7515021",
+"amostras_pcr_novas": "9516",
+"amostras_antigenio": "532325",
+"amostras_antigenio_novas": "1338"
+},
+{
+"data": "22-02-2021",
+"amostras": "8078642",
+"amostras_novas": "31296",
+"amostras_pcr": "7537996",
+"amostras_pcr_novas": "22975",
+"amostras_antigenio": "540646",
+"amostras_antigenio_novas": "8321"
+},
+{
+"data": "23-02-2021",
+"amostras": "8110219",
+"amostras_novas": "31577",
+"amostras_pcr": "7563106",
+"amostras_pcr_novas": "25110",
+"amostras_antigenio": "547113",
+"amostras_antigenio_novas": "6467"
+},
+{
+"data": "24-02-2021",
+"amostras": "8141454",
+"amostras_novas": "31235",
+"amostras_pcr": "7586767",
+"amostras_pcr_novas": "23661",
+"amostras_antigenio": "554687",
+"amostras_antigenio_novas": "7574"
+},
+{
+"data": "25-02-2021",
+"amostras": "8172428",
+"amostras_novas": "30974",
+"amostras_pcr": "7609856",
+"amostras_pcr_novas": "23089",
+"amostras_antigenio": "562572",
+"amostras_antigenio_novas": "7885"
+},
+{
+"data": "26-02-2021",
+"amostras": "8205338",
+"amostras_novas": "32910",
+"amostras_pcr": "7635341",
+"amostras_pcr_novas": "25485",
+"amostras_antigenio": "569997",
+"amostras_antigenio_novas": "7425"
+},
+{
+"data": "27-02-2021",
+"amostras": "8225718",
+"amostras_novas": "20380",
+"amostras_pcr": "7653569",
+"amostras_pcr_novas": "18228",
+"amostras_antigenio": "572149",
+"amostras_antigenio_novas": "2152"
+},
+{
+"data": "28-02-2021",
+"amostras": "8237157",
+"amostras_novas": "11439",
+"amostras_pcr": "7663825",
+"amostras_pcr_novas": "10256",
+"amostras_antigenio": "573332",
+"amostras_antigenio_novas": "1183"
+},
+{
+"data": "01-03-2021",
+"amostras": "8263796",
+"amostras_novas": "26639",
+"amostras_pcr": "7683565",
+"amostras_pcr_novas": "19740",
+"amostras_antigenio": "580231",
+"amostras_antigenio_novas": "6899"
+},
+{
+"data": "02-03-2021",
+"amostras": "8293531",
+"amostras_novas": "29735",
+"amostras_pcr": "7706785",
+"amostras_pcr_novas": "23220",
+"amostras_antigenio": "586746",
+"amostras_antigenio_novas": "6515"
+},
+{
+"data": "03-03-2021",
+"amostras": "8322919",
+"amostras_novas": "29388",
+"amostras_pcr": "7729948",
+"amostras_pcr_novas": "23163",
+"amostras_antigenio": "592971",
+"amostras_antigenio_novas": "6225"
+},
+{
+"data": "04-03-2021",
+"amostras": "8351000",
+"amostras_novas": "28081",
+"amostras_pcr": "7751371",
+"amostras_pcr_novas": "21423",
+"amostras_antigenio": "599629",
+"amostras_antigenio_novas": "6658"
+},
+{
+"data": "05-03-2021",
+"amostras": "8379636",
+"amostras_novas": "28636",
+"amostras_pcr": "7773472",
+"amostras_pcr_novas": "22101",
+"amostras_antigenio": "606164",
+"amostras_antigenio_novas": "6535"
+},
+{
+"data": "06-03-2021",
+"amostras": "8399527",
+"amostras_novas": "19891",
+"amostras_pcr": "7790876",
+"amostras_pcr_novas": "17404",
+"amostras_antigenio": "608651",
+"amostras_antigenio_novas": "2487"
+},
+{
+"data": "07-03-2021",
+"amostras": "8408923",
+"amostras_novas": "9396",
+"amostras_pcr": "7799163",
+"amostras_pcr_novas": "8287",
+"amostras_antigenio": "609760",
+"amostras_antigenio_novas": "1109"
+},
+{
+"data": "08-03-2021",
+"amostras": "8434226",
+"amostras_novas": "25303",
+"amostras_pcr": "7820332",
+"amostras_pcr_novas": "21169",
+"amostras_antigenio": "613894",
+"amostras_antigenio_novas": "4134"
+},
+{
+"data": "09-03-2021",
+"amostras": "8458739",
+"amostras_novas": "24513",
+"amostras_pcr": "7841772",
+"amostras_pcr_novas": "21440",
+"amostras_antigenio": "616967",
+"amostras_antigenio_novas": "3073"
+},
+{
+"data": "10-03-2021",
+"amostras": "8485366",
+"amostras_novas": "26627",
+"amostras_pcr": "7864333",
+"amostras_pcr_novas": "22561",
+"amostras_antigenio": "621033",
+"amostras_antigenio_novas": "4066"
+},
+{
+"data": "11-03-2021",
+"amostras": "8509679",
+"amostras_novas": "24313",
+"amostras_pcr": "7884778",
+"amostras_pcr_novas": "20445",
+"amostras_antigenio": "624901",
+"amostras_antigenio_novas": "3868"
+},
+{
+"data": "12-03-2021",
+"amostras": "8536960",
+"amostras_novas": "27281",
+"amostras_pcr": "7906672",
+"amostras_pcr_novas": "21894",
+"amostras_antigenio": "630288",
+"amostras_antigenio_novas": "5387"
+},
+{
+"data": "13-03-2021",
+"amostras": "8557976",
+"amostras_novas": "21016",
+"amostras_pcr": "7924593",
+"amostras_pcr_novas": "17921",
+"amostras_antigenio": "633383",
+"amostras_antigenio_novas": "3095"
+},
+{
+"data": "14-03-2021",
+"amostras": "8567685",
+"amostras_novas": "9709",
+"amostras_pcr": "7933170",
+"amostras_pcr_novas": "8577",
+"amostras_antigenio": "634515",
+"amostras_antigenio_novas": "1132"
+},
+{
+"data": "15-03-2021",
+"amostras": "8594112",
+"amostras_novas": "26427",
+"amostras_pcr": "7953267",
+"amostras_pcr_novas": "20097",
+"amostras_antigenio": "640845",
+"amostras_antigenio_novas": "6330"
+},
+{
+"data": "16-03-2021",
+"amostras": "8635506",
+"amostras_novas": "41394",
+"amostras_pcr": "7975879",
+"amostras_pcr_novas": "22612",
+"amostras_antigenio": "659627",
+"amostras_antigenio_novas": "18782"
+},
+{
+"data": "17-03-2021",
+"amostras": "8683608",
+"amostras_novas": "48102",
+"amostras_pcr": "7998686",
+"amostras_pcr_novas": "22807",
+"amostras_antigenio": "684922",
+"amostras_antigenio_novas": "25295"
+},
+{
+"data": "18-03-2021",
+"amostras": "8736504",
+"amostras_novas": "52896",
+"amostras_pcr": "8020352",
+"amostras_pcr_novas": "21666",
+"amostras_antigenio": "716152",
+"amostras_antigenio_novas": "31230"
+},
+{
+"data": "19-03-2021",
+"amostras": "8789989",
+"amostras_novas": "53485",
+"amostras_pcr": "8042844",
+"amostras_pcr_novas": "22492",
+"amostras_antigenio": "747145",
+"amostras_antigenio_novas": "30993"
+},
+{
+"data": "20-03-2021",
+"amostras": "8823503",
+"amostras_novas": "33514",
+"amostras_pcr": "8061421",
+"amostras_pcr_novas": "18577",
+"amostras_antigenio": "762082",
+"amostras_antigenio_novas": "14937"
+},
+{
+"data": "21-03-2021",
+"amostras": "8833757",
+"amostras_novas": "10254",
+"amostras_pcr": "8070082",
+"amostras_pcr_novas": "8661",
+"amostras_antigenio": "763675",
+"amostras_antigenio_novas": "1593"
+},
+{
+"data": "22-03-2021",
+"amostras": "8864040",
+"amostras_novas": "30283",
+"amostras_pcr": "8092216",
+"amostras_pcr_novas": "22134",
+"amostras_antigenio": "771824",
+"amostras_antigenio_novas": "8149"
+},
+{
+"data": "23-03-2021",
+"amostras": "8895240",
+"amostras_novas": "31200",
+"amostras_pcr": "8117932",
+"amostras_pcr_novas": "25716",
+"amostras_antigenio": "777308",
+"amostras_antigenio_novas": "5484"
+},
+{
+"data": "24-03-2021",
+"amostras": "8924496",
+"amostras_novas": "29256",
+"amostras_pcr": "8142368",
+"amostras_pcr_novas": "24436",
+"amostras_antigenio": "782128",
+"amostras_antigenio_novas": "4820"
+},
+{
+"data": "25-03-2021",
+"amostras": "8951974",
+"amostras_novas": "27478",
+"amostras_pcr": "8165795",
+"amostras_pcr_novas": "23427",
+"amostras_antigenio": "786179",
+"amostras_antigenio_novas": "4051"
+},
+{
+"data": "26-03-2021",
+"amostras": "8982121",
+"amostras_novas": "30147",
+"amostras_pcr": "8190887",
+"amostras_pcr_novas": "25092",
+"amostras_antigenio": "791234",
+"amostras_antigenio_novas": "5055"
+},
+{
+"data": "27-03-2021",
+"amostras": "9004279",
+"amostras_novas": "22158",
+"amostras_pcr": "8210753",
+"amostras_pcr_novas": "19866",
+"amostras_antigenio": "793526",
+"amostras_antigenio_novas": "2292"
+},
+{
+"data": "28-03-2021",
+"amostras": "9015124",
+"amostras_novas": "10845",
+"amostras_pcr": "8220469",
+"amostras_pcr_novas": "9716",
+"amostras_antigenio": "794655",
+"amostras_antigenio_novas": "1129"
+},
+{
+"data": "29-03-2021",
+"amostras": "9045316",
+"amostras_novas": "30192",
+"amostras_pcr": "8244723",
+"amostras_pcr_novas": "24254",
+"amostras_antigenio": "800593",
+"amostras_antigenio_novas": "5938"
+},
+{
+"data": "30-03-2021",
+"amostras": "9074560",
+"amostras_novas": "29244",
+"amostras_pcr": "8270501",
+"amostras_pcr_novas": "25778",
+"amostras_antigenio": "804059",
+"amostras_antigenio_novas": "3466"
+},
+{
+"data": "31-03-2021",
+"amostras": "9103440",
+"amostras_novas": "28880",
+"amostras_pcr": "8295066",
+"amostras_pcr_novas": "24565",
+"amostras_antigenio": "808374",
+"amostras_antigenio_novas": "4315"
+},
+{
+"data": "01-04-2021",
+"amostras": "9132182",
+"amostras_novas": "28742",
+"amostras_pcr": "8318417",
+"amostras_pcr_novas": "23351",
+"amostras_antigenio": "813765",
+"amostras_antigenio_novas": "5391"
+},
+{
+"data": "02-04-2021",
+"amostras": "9147103",
+"amostras_novas": "14921",
+"amostras_pcr": "8331047",
+"amostras_pcr_novas": "12630",
+"amostras_antigenio": "816056",
+"amostras_antigenio_novas": "2291"
+},
+{
+"data": "03-04-2021",
+"amostras": "9170238",
+"amostras_novas": "23135",
+"amostras_pcr": "8351810",
+"amostras_pcr_novas": "20763",
+"amostras_antigenio": "818428",
+"amostras_antigenio_novas": "2372"
+},
+{
+"data": "04-04-2021",
+"amostras": "9182642",
+"amostras_novas": "12404",
+"amostras_pcr": "8363114",
+"amostras_pcr_novas": "11304",
+"amostras_antigenio": "819528",
+"amostras_antigenio_novas": "1100"
+},
+{
+"data": "05-04-2021",
+"amostras": "9241888",
+"amostras_novas": "59246",
+"amostras_pcr": "8390158",
+"amostras_pcr_novas": "27044",
+"amostras_antigenio": "851730",
+"amostras_antigenio_novas": "32202"
+},
+{
+"data": "06-04-2021",
+"amostras": "9305570",
+"amostras_novas": "63682",
+"amostras_pcr": "8419344",
+"amostras_pcr_novas": "29186",
+"amostras_antigenio": "886226",
+"amostras_antigenio_novas": "34496"
+},
+{
+"data": "07-04-2021",
+"amostras": "9368908",
+"amostras_novas": "63338",
+"amostras_pcr": "8448382",
+"amostras_pcr_novas": "29038",
+"amostras_antigenio": "920526",
+"amostras_antigenio_novas": "34300"
+},
+{
+"data": "08-04-2021",
+"amostras": "9427197",
+"amostras_novas": "58289",
+"amostras_pcr": "8475927",
+"amostras_pcr_novas": "27545",
+"amostras_antigenio": "951270",
+"amostras_antigenio_novas": "30744"
+},
+{
+"data": "09-04-2021",
+"amostras": "9487353",
+"amostras_novas": "60156",
+"amostras_pcr": "8506500",
+"amostras_pcr_novas": "30573",
+"amostras_antigenio": "980853",
+"amostras_antigenio_novas": "29583"
+},
+{
+"data": "10-04-2021",
+"amostras": "9519153",
+"amostras_novas": "31800",
+"amostras_pcr": "8531360",
+"amostras_pcr_novas": "24860",
+"amostras_antigenio": "987793",
+"amostras_antigenio_novas": "6940"
+},
+{
+"data": "11-04-2021",
+"amostras": "9531995",
+"amostras_novas": "12842",
+"amostras_pcr": "8543073",
+"amostras_pcr_novas": "11713",
+"amostras_antigenio": "988922",
+"amostras_antigenio_novas": "1129"
+},
+{
+"data": "12-04-2021",
+"amostras": "9570790",
+"amostras_novas": "38795",
+"amostras_pcr": "8569010",
+"amostras_pcr_novas": "25937",
+"amostras_antigenio": "1001780",
+"amostras_antigenio_novas": "12858"
+},
+{
+"data": "13-04-2021",
+"amostras": "9612274",
+"amostras_novas": "41484",
+"amostras_pcr": "8598379",
+"amostras_pcr_novas": "29369",
+"amostras_antigenio": "1013895",
+"amostras_antigenio_novas": "12115"
+},
+{
+"data": "14-04-2021",
+"amostras": "9653908",
+"amostras_novas": "41634",
+"amostras_pcr": "8627634",
+"amostras_pcr_novas": "29255",
+"amostras_antigenio": "1026274",
+"amostras_antigenio_novas": "12379"
+},
+{
+"data": "15-04-2021",
+"amostras": "9695990",
+"amostras_novas": "42082",
+"amostras_pcr": "8657888",
+"amostras_pcr_novas": "30254",
+"amostras_antigenio": "1038102",
+"amostras_antigenio_novas": "11828"
+},
+{
+"data": "16-04-2021",
+"amostras": "9743042",
+"amostras_novas": "47052",
+"amostras_pcr": "8690609",
+"amostras_pcr_novas": "32721",
+"amostras_antigenio": "1052433",
+"amostras_antigenio_novas": "14331"
+},
+{
+"data": "17-04-2021",
+"amostras": "9774503",
+"amostras_novas": "31461",
+"amostras_pcr": "8714592",
+"amostras_pcr_novas": "23983",
+"amostras_antigenio": "1059911",
+"amostras_antigenio_novas": "7478"
+},
+{
+"data": "18-04-2021",
+"amostras": "9788932",
+"amostras_novas": "14429",
+"amostras_pcr": "8726567",
+"amostras_pcr_novas": "11975",
+"amostras_antigenio": "1062365",
+"amostras_antigenio_novas": "2454"
+},
+{
+"data": "19-04-2021",
+"amostras": "9867648",
+"amostras_novas": "78716",
+"amostras_pcr": "8753457",
+"amostras_pcr_novas": "26890",
+"amostras_antigenio": "1114191",
+"amostras_antigenio_novas": "51826"
+},
+{
+"data": "20-04-2021",
+"amostras": "9964582",
+"amostras_novas": "96934",
+"amostras_pcr": "8785537",
+"amostras_pcr_novas": "32080",
+"amostras_antigenio": "1179045",
+"amostras_antigenio_novas": "64854"
+},
+{
+"data": "21-04-2021",
+"amostras": "10063326",
+"amostras_novas": "98744",
+"amostras_pcr": "8817911",
+"amostras_pcr_novas": "32374",
+"amostras_antigenio": "1245415",
+"amostras_antigenio_novas": "66370"
+},
+{
+"data": "22-04-2021",
+"amostras": "10161389",
+"amostras_novas": "98063",
+"amostras_pcr": "8849098",
+"amostras_pcr_novas": "31187",
+"amostras_antigenio": "1312291",
+"amostras_antigenio_novas": "66876"
+},
+{
+"data": "23-04-2021",
+"amostras": "10249935",
+"amostras_novas": "88546",
+"amostras_pcr": "8879586",
+"amostras_pcr_novas": "30488",
+"amostras_antigenio": "1370349",
+"amostras_antigenio_novas": "58058"
+},
+{
+"data": "24-04-2021",
+"amostras": "10291321",
+"amostras_novas": "41386",
+"amostras_pcr": "8905446",
+"amostras_pcr_novas": "25860",
+"amostras_antigenio": "1385875",
+"amostras_antigenio_novas": "15526"
+},
+{
+"data": "25-04-2021",
+"amostras": "10305806",
+"amostras_novas": "14485",
+"amostras_pcr": "8917783",
+"amostras_pcr_novas": "12337",
+"amostras_antigenio": "1388023",
+"amostras_antigenio_novas": "2148"
+},
+{
+"data": "26-04-2021",
+"amostras": "10359270",
+"amostras_novas": "53464",
+"amostras_pcr": "8944935",
+"amostras_pcr_novas": "27152",
+"amostras_antigenio": "1414335",
+"amostras_antigenio_novas": "26312"
+},
+{
+"data": "27-04-2021",
+"amostras": "10416722",
+"amostras_novas": "57452",
+"amostras_pcr": "8977786",
+"amostras_pcr_novas": "32851",
+"amostras_antigenio": "1438936",
+"amostras_antigenio_novas": "24601"
+},
+{
+"data": "28-04-2021",
+"amostras": "10470067",
+"amostras_novas": "53345",
+"amostras_pcr": "9011662",
+"amostras_pcr_novas": "33876",
+"amostras_antigenio": "1458405",
+"amostras_antigenio_novas": "19469"
+},
+{
+"data": "29-04-2021",
+"amostras": "10524168",
+"amostras_novas": "54101",
+"amostras_pcr": "9043495",
+"amostras_pcr_novas": "31833",
+"amostras_antigenio": "1480673",
+"amostras_antigenio_novas": "22268"
+},
+{
+"data": "30-04-2021",
+"amostras": "10588337",
+"amostras_novas": "64169",
+"amostras_pcr": "9077914",
+"amostras_pcr_novas": "34419",
+"amostras_antigenio": "1510423",
+"amostras_antigenio_novas": "29750"
+},
+{
+"data": "01-05-2021",
+"amostras": "10619791",
+"amostras_novas": "31454",
+"amostras_pcr": "9101311",
+"amostras_pcr_novas": "23397",
+"amostras_antigenio": "1518480",
+"amostras_antigenio_novas": "8057"
+},
+{
+"data": "02-05-2021",
+"amostras": "10636931",
+"amostras_novas": "17140",
+"amostras_pcr": "9115280",
+"amostras_pcr_novas": "13969",
+"amostras_antigenio": "1521651",
+"amostras_antigenio_novas": "3171"
+},
+{
+"data": "03-05-2021",
+"amostras": "10688942",
+"amostras_novas": "52011",
+"amostras_pcr": "9145298",
+"amostras_pcr_novas": "30018",
+"amostras_antigenio": "1543644",
+"amostras_antigenio_novas": "21993"
+},
+{
+"data": "04-05-2021",
+"amostras": "10741502",
+"amostras_novas": "52560",
+"amostras_pcr": "9179516",
+"amostras_pcr_novas": "34218",
+"amostras_antigenio": "1561986",
+"amostras_antigenio_novas": "18342"
+},
+{
+"data": "05-05-2021",
+"amostras": "10790757",
+"amostras_novas": "49255",
+"amostras_pcr": "9212254",
+"amostras_pcr_novas": "32738",
+"amostras_antigenio": "1578503",
+"amostras_antigenio_novas": "16517"
+},
+{
+"data": "06-05-2021",
+"amostras": "10839340",
+"amostras_novas": "48583",
+"amostras_pcr": "9244000",
+"amostras_pcr_novas": "31746",
+"amostras_antigenio": "1595340",
+"amostras_antigenio_novas": "16837"
+},
+{
+"data": "07-05-2021",
+"amostras": "10887189",
+"amostras_novas": "47849",
+"amostras_pcr": "9276242",
+"amostras_pcr_novas": "32242",
+"amostras_antigenio": "1610947",
+"amostras_antigenio_novas": "15607"
+},
+{
+"data": "08-05-2021",
+"amostras": "10918687",
+"amostras_novas": "31498",
+"amostras_pcr": "9301072",
+"amostras_pcr_novas": "24830",
+"amostras_antigenio": "1617615",
+"amostras_antigenio_novas": "6668"
+},
+{
+"data": "09-05-2021",
+"amostras": "10934627",
+"amostras_novas": "15940",
+"amostras_pcr": "9313825",
+"amostras_pcr_novas": "12753",
+"amostras_antigenio": "1620802",
+"amostras_antigenio_novas": "3187"
+},
+{
+"data": "10-05-2021",
+"amostras": "10974062",
+"amostras_novas": "39435",
+"amostras_pcr": "9341860",
+"amostras_pcr_novas": "28035",
+"amostras_antigenio": "1632202",
+"amostras_antigenio_novas": "11400"
+},
+{
+"data": "11-05-2021",
+"amostras": "11015935",
+"amostras_novas": "41873",
+"amostras_pcr": "9374161",
+"amostras_pcr_novas": "32301",
+"amostras_antigenio": "1641774",
+"amostras_antigenio_novas": "9572"
+},
+{
+"data": "12-05-2021",
+"amostras": "11059748",
+"amostras_novas": "43813",
+"amostras_pcr": "9407364",
+"amostras_pcr_novas": "33203",
+"amostras_antigenio": "1652384",
+"amostras_antigenio_novas": "10610"
+},
+{
+"data": "13-05-2021",
+"amostras": "11099997",
+"amostras_novas": "40249",
+"amostras_pcr": "9437347",
+"amostras_pcr_novas": "29983",
+"amostras_antigenio": "1662650",
+"amostras_antigenio_novas": "10266"
+},
+{
+"data": "14-05-2021",
+"amostras": "11146367",
+"amostras_novas": "46370",
+"amostras_pcr": "9472047",
+"amostras_pcr_novas": "34700",
+"amostras_antigenio": "1674320",
+"amostras_antigenio_novas": "11670"
+},
+{
+"data": "15-05-2021",
+"amostras": "11177329",
+"amostras_novas": "30962",
+"amostras_pcr": "9498150",
+"amostras_pcr_novas": "26103",
+"amostras_antigenio": "1679179",
+"amostras_antigenio_novas": "4859"
+},
+{
+"data": "16-05-2021",
+"amostras": "11193036",
+"amostras_novas": "15707",
+"amostras_pcr": "9511630",
+"amostras_pcr_novas": "13480",
+"amostras_antigenio": "1681406",
+"amostras_antigenio_novas": "2227"
+},
+{
+"data": "17-05-2021",
+"amostras": "11236329",
+"amostras_novas": "43293",
+"amostras_pcr": "9543012",
+"amostras_pcr_novas": "31382",
+"amostras_antigenio": "1693317",
+"amostras_antigenio_novas": "11911"
+},
+{
+"data": "18-05-2021",
+"amostras": "11277799",
+"amostras_novas": "41470",
+"amostras_pcr": "9575616",
+"amostras_pcr_novas": "32604",
+"amostras_antigenio": "1702183",
+"amostras_antigenio_novas": "8866"
+},
+{
+"data": "19-05-2021",
+"amostras": "11322198",
+"amostras_novas": "44399",
+"amostras_pcr": "9608105",
+"amostras_pcr_novas": "32489",
+"amostras_antigenio": "1714093",
+"amostras_antigenio_novas": "11910"
+},
+{
+"data": "20-05-2021",
+"amostras": "11366775",
+"amostras_novas": "44577",
+"amostras_pcr": "9640126",
+"amostras_pcr_novas": "32021",
+"amostras_antigenio": "1726649",
+"amostras_antigenio_novas": "12556"
+},
+{
+"data": "21-05-2021",
+"amostras": "11412153",
+"amostras_novas": "45378",
+"amostras_pcr": "9673952",
+"amostras_pcr_novas": "33826",
+"amostras_antigenio": "1738201",
+"amostras_antigenio_novas": "11552"
+},
+{
+"data": "22-05-2021",
+"amostras": "11445713",
+"amostras_novas": "33560",
+"amostras_pcr": "9702836",
+"amostras_pcr_novas": "28884",
+"amostras_antigenio": "1742877",
+"amostras_antigenio_novas": "4676"
+},
+{
+"data": "23-05-2021",
+"amostras": "11461865",
+"amostras_novas": "16152",
+"amostras_pcr": "9716457",
+"amostras_pcr_novas": "13621",
+"amostras_antigenio": "1745408",
+"amostras_antigenio_novas": "2531"
+},
+{
+"data": "24-05-2021",
+"amostras": "11504545",
+"amostras_novas": "42680",
+"amostras_pcr": "9748264",
+"amostras_pcr_novas": "31807",
+"amostras_antigenio": "1756281",
+"amostras_antigenio_novas": "10873"
+},
+{
+"data": "25-05-2021",
+"amostras": "11548135",
+"amostras_novas": "43590",
+"amostras_pcr": "9782589",
+"amostras_pcr_novas": "34325",
+"amostras_antigenio": "1765546",
+"amostras_antigenio_novas": "9265"
+},
+{
+"data": "26-05-2021",
+"amostras": "11598544",
+"amostras_novas": "50409",
+"amostras_pcr": "9819125",
+"amostras_pcr_novas": "36536",
+"amostras_antigenio": "1779419",
+"amostras_antigenio_novas": "13873"
+},
+{
+"data": "27-05-2021",
+"amostras": "11652491",
+"amostras_novas": "53947",
+"amostras_pcr": "9855905",
+"amostras_pcr_novas": "36780",
+"amostras_antigenio": "1796586",
+"amostras_antigenio_novas": "17167"
+},
+{
+"data": "28-05-2021",
+"amostras": "11711766",
+"amostras_novas": "59275",
+"amostras_pcr": "9894232",
+"amostras_pcr_novas": "38327",
+"amostras_antigenio": "1817534",
+"amostras_antigenio_novas": "20948"
+},
+{
+"data": "29-05-2021",
+"amostras": "11755085",
+"amostras_novas": "43319",
+"amostras_pcr": "9925350",
+"amostras_pcr_novas": "31118",
+"amostras_antigenio": "1829735",
+"amostras_antigenio_novas": "12201"
+},
+{
+"data": "30-05-2021",
+"amostras": "11775454",
+"amostras_novas": "20369",
+"amostras_pcr": "9940504",
+"amostras_pcr_novas": "15154",
+"amostras_antigenio": "1834950",
+"amostras_antigenio_novas": "5215"
+},
+{
+"data": "31-05-2021",
+"amostras": "11825271",
+"amostras_novas": "49817",
+"amostras_pcr": "9975130",
+"amostras_pcr_novas": "34626",
+"amostras_antigenio": "1850141",
+"amostras_antigenio_novas": "15191"
+},
+{
+"data": "01-06-2021",
+"amostras": "11883899",
+"amostras_novas": "58628",
+"amostras_pcr": "10015155",
+"amostras_pcr_novas": "40025",
+"amostras_antigenio": "1868744",
+"amostras_antigenio_novas": "18603"
+},
+{
+"data": "02-06-2021",
+"amostras": "11940302",
+"amostras_novas": "56403",
+"amostras_pcr": "10053464",
+"amostras_pcr_novas": "38309",
+"amostras_antigenio": "1886838",
+"amostras_antigenio_novas": "18094"
+},
+{
+"data": "03-06-2021",
+"amostras": "11974819",
+"amostras_novas": "34517",
+"amostras_pcr": "10080430",
+"amostras_pcr_novas": "26966",
+"amostras_antigenio": "1894389",
+"amostras_antigenio_novas": "7551"
+},
+{
+"data": "04-06-2021",
+"amostras": "12027243",
+"amostras_novas": "52424",
+"amostras_pcr": "10115897",
+"amostras_pcr_novas": "35467",
+"amostras_antigenio": "1911346",
+"amostras_antigenio_novas": "16957"
+},
+{
+"data": "05-06-2021",
+"amostras": "12074910",
+"amostras_novas": "47667",
+"amostras_pcr": "10152113",
+"amostras_pcr_novas": "36216",
+"amostras_antigenio": "1922797",
+"amostras_antigenio_novas": "11451"
+},
+{
+"data": "06-06-2021",
+"amostras": "12095822",
+"amostras_novas": "20912",
+"amostras_pcr": "10168128",
+"amostras_pcr_novas": "16015",
+"amostras_antigenio": "1927694",
+"amostras_antigenio_novas": "4897"
+},
+{
+"data": "07-06-2021",
+"amostras": "12144627",
+"amostras_novas": "48805",
+"amostras_pcr": "10202322",
+"amostras_pcr_novas": "34194",
+"amostras_antigenio": "1942305",
+"amostras_antigenio_novas": "14611"
+},
+{
+"data": "08-06-2021",
+"amostras": "12198423",
+"amostras_novas": "53796",
+"amostras_pcr": "10242732",
+"amostras_pcr_novas": "40410",
+"amostras_antigenio": "1955691",
+"amostras_antigenio_novas": "13386"
+},
+{
+"data": "09-06-2021",
+"amostras": "12251384",
+"amostras_novas": "52961",
+"amostras_pcr": "10281526",
+"amostras_pcr_novas": "38794",
+"amostras_antigenio": "1969858",
+"amostras_antigenio_novas": "14167"
+},
+{
+"data": "10-06-2021",
+"amostras": "12278762",
+"amostras_novas": "27378",
+"amostras_pcr": "10304593",
+"amostras_pcr_novas": "23067",
+"amostras_antigenio": "1974169",
+"amostras_antigenio_novas": "4311"
+},
+{
+"data": "11-06-2021",
+"amostras": "12326015",
+"amostras_novas": "47253",
+"amostras_pcr": "10336952",
+"amostras_pcr_novas": "32359",
+"amostras_antigenio": "1989063",
+"amostras_antigenio_novas": "14894"
+},
+{
+"data": "12-06-2021",
+"amostras": "12365177",
+"amostras_novas": "39162",
+"amostras_pcr": "10368454",
+"amostras_pcr_novas": "31502",
+"amostras_antigenio": "1996723",
+"amostras_antigenio_novas": "7660"
+},
+{
+"data": "13-06-2021",
+"amostras": "12383749",
+"amostras_novas": "18572",
+"amostras_pcr": "10383488",
+"amostras_pcr_novas": "15034",
+"amostras_antigenio": "2000261",
+"amostras_antigenio_novas": "3538"
+},
+{
+"data": "14-06-2021",
+"amostras": "12433519",
+"amostras_novas": "49770",
+"amostras_pcr": "10418437",
+"amostras_pcr_novas": "34949",
+"amostras_antigenio": "2015082",
+"amostras_antigenio_novas": "14821"
+},
+{
+"data": "15-06-2021",
+"amostras": "12489051",
+"amostras_novas": "55532",
+"amostras_pcr": "10458286",
+"amostras_pcr_novas": "39849",
+"amostras_antigenio": "2030765",
+"amostras_antigenio_novas": "15683"
+},
+{
+"data": "16-06-2021",
+"amostras": "12543507",
+"amostras_novas": "54456",
+"amostras_pcr": "10495577",
+"amostras_pcr_novas": "37291",
+"amostras_antigenio": "2047930",
+"amostras_antigenio_novas": "17165"
+},
+{
+"data": "17-06-2021",
+"amostras": "12609022",
+"amostras_novas": "65515",
+"amostras_pcr": "10533372",
+"amostras_pcr_novas": "37795",
+"amostras_antigenio": "2075650",
+"amostras_antigenio_novas": "27720"
+},
+{
+"data": "18-06-2021",
+"amostras": "12684501",
+"amostras_novas": "75479",
+"amostras_pcr": "10571951",
+"amostras_pcr_novas": "38579",
+"amostras_antigenio": "2112550",
+"amostras_antigenio_novas": "36900"
+},
+{
+"data": "19-06-2021",
+"amostras": "12731507",
+"amostras_novas": "47006",
+"amostras_pcr": "10604668",
+"amostras_pcr_novas": "32717",
+"amostras_antigenio": "2126839",
+"amostras_antigenio_novas": "14289"
+},
+{
+"data": "20-06-2021",
+"amostras": "12752246",
+"amostras_novas": "20739",
+"amostras_pcr": "10619145",
+"amostras_pcr_novas": "14477",
+"amostras_antigenio": "2133101",
+"amostras_antigenio_novas": "6262"
+},
+{
+"data": "21-06-2021",
+"amostras": "12808506",
+"amostras_novas": "56260",
+"amostras_pcr": "10654910",
+"amostras_pcr_novas": "35765",
+"amostras_antigenio": "2153596",
+"amostras_antigenio_novas": "20495"
+},
+{
+"data": "22-06-2021",
+"amostras": "12874141",
+"amostras_novas": "65635",
+"amostras_pcr": "10695304",
+"amostras_pcr_novas": "40394",
+"amostras_antigenio": "2178837",
+"amostras_antigenio_novas": "25241"
+},
+{
+"data": "23-06-2021",
+"amostras": "12942680",
+"amostras_novas": "68539",
+"amostras_pcr": "10734077",
+"amostras_pcr_novas": "38773",
+"amostras_antigenio": "2208603",
+"amostras_antigenio_novas": "29766"
+},
+{
+"data": "24-06-2021",
+"amostras": "13007833",
+"amostras_novas": "65153",
+"amostras_pcr": "10768774",
+"amostras_pcr_novas": "34697",
+"amostras_antigenio": "2239059",
+"amostras_antigenio_novas": "30456"
+},
+{
+"data": "25-06-2021",
+"amostras": "13086008",
+"amostras_novas": "78175",
+"amostras_pcr": "10808198",
+"amostras_pcr_novas": "39424",
+"amostras_antigenio": "2277810",
+"amostras_antigenio_novas": "38751"
+},
+{
+"data": "26-06-2021",
+"amostras": "13138999",
+"amostras_novas": "52991",
+"amostras_pcr": "10840517",
+"amostras_pcr_novas": "32319",
+"amostras_antigenio": "2298482",
+"amostras_antigenio_novas": "20672"
+},
+{
+"data": "27-06-2021",
+"amostras": "13162427",
+"amostras_novas": "23428",
+"amostras_pcr": "10856640",
+"amostras_pcr_novas": "16123",
+"amostras_antigenio": "2305787",
+"amostras_antigenio_novas": "7305"
+},
+{
+"data": "28-06-2021",
+"amostras": "13219463",
+"amostras_novas": "57036",
+"amostras_pcr": "10892636",
+"amostras_pcr_novas": "35996",
+"amostras_antigenio": "2326827",
+"amostras_antigenio_novas": "21040"
+},
+{
+"data": "29-06-2021",
+"amostras": "13282773",
+"amostras_novas": "63310",
+"amostras_pcr": "10934838",
+"amostras_pcr_novas": "42202",
+"amostras_antigenio": "2347935",
+"amostras_antigenio_novas": "21108"
+},
+{
+"data": "30-06-2021",
+"amostras": "13349652",
+"amostras_novas": "66879",
+"amostras_pcr": "10975303",
+"amostras_pcr_novas": "40465",
+"amostras_antigenio": "2374349",
+"amostras_antigenio_novas": "26414"
+},
+{
+"data": "01-07-2021",
+"amostras": "13428294",
+"amostras_novas": "78642",
+"amostras_pcr": "11015620",
+"amostras_pcr_novas": "40317",
+"amostras_antigenio": "2412674",
+"amostras_antigenio_novas": "38325"
+},
+{
+"data": "02-07-2021",
+"amostras": "13514754",
+"amostras_novas": "86460",
+"amostras_pcr": "11056300",
+"amostras_pcr_novas": "40680",
+"amostras_antigenio": "2458454",
+"amostras_antigenio_novas": "45780"
+},
+{
+"data": "03-07-2021",
+"amostras": "13571382",
+"amostras_novas": "56628",
+"amostras_pcr": "11091862",
+"amostras_pcr_novas": "35562",
+"amostras_antigenio": "2479520",
+"amostras_antigenio_novas": "21066"
+},
+{
+"data": "04-07-2021",
+"amostras": "13597636",
+"amostras_novas": "26254",
+"amostras_pcr": "11110230",
+"amostras_pcr_novas": "18368",
+"amostras_antigenio": "2487406",
+"amostras_antigenio_novas": "7886"
+},
+{
+"data": "05-07-2021",
+"amostras": "13659719",
+"amostras_novas": "62083",
+"amostras_pcr": "11146205",
+"amostras_pcr_novas": "35975",
+"amostras_antigenio": "2513514",
+"amostras_antigenio_novas": "26108"
+},
+{
+"data": "06-07-2021",
+"amostras": "13724030",
+"amostras_novas": "64311",
+"amostras_pcr": "11190473",
+"amostras_pcr_novas": "44268",
+"amostras_antigenio": "2533557",
+"amostras_antigenio_novas": "20043"
+},
+{
+"data": "07-07-2021",
+"amostras": "13787702",
+"amostras_novas": "63672",
+"amostras_pcr": "11230908",
+"amostras_pcr_novas": "40435",
+"amostras_antigenio": "2556794",
+"amostras_antigenio_novas": "23237"
+},
+{
+"data": "08-07-2021",
+"amostras": "13860708",
+"amostras_novas": "73006",
+"amostras_pcr": "11271877",
+"amostras_pcr_novas": "40969",
+"amostras_antigenio": "2588831",
+"amostras_antigenio_novas": "32037"
+},
+{
+"data": "09-07-2021",
+"amostras": "13950949",
+"amostras_novas": "90241",
+"amostras_pcr": "11314773",
+"amostras_pcr_novas": "42896",
+"amostras_antigenio": "2636176",
+"amostras_antigenio_novas": "47345"
+},
+{
+"data": "10-07-2021",
+"amostras": "14007904",
+"amostras_novas": "56955",
+"amostras_pcr": "11349863",
+"amostras_pcr_novas": "35090",
+"amostras_antigenio": "2658041",
+"amostras_antigenio_novas": "21865"
+},
+{
+"data": "11-07-2021",
+"amostras": "14033631",
+"amostras_novas": "25727",
+"amostras_pcr": "11367475",
+"amostras_pcr_novas": "17612",
+"amostras_antigenio": "2666156",
+"amostras_antigenio_novas": "8115"
+},
+{
+"data": "12-07-2021",
+"amostras": "14098293",
+"amostras_novas": "64662",
+"amostras_pcr": "11404361",
+"amostras_pcr_novas": "36886",
+"amostras_antigenio": "2693932",
+"amostras_antigenio_novas": "27776"
+},
+{
+"data": "13-07-2021",
+"amostras": "14167143",
+"amostras_novas": "68850",
+"amostras_pcr": "11449533",
+"amostras_pcr_novas": "45172",
+"amostras_antigenio": "2717610",
+"amostras_antigenio_novas": "23678"
+},
+{
+"data": "14-07-2021",
+"amostras": "14235465",
+"amostras_novas": "68322",
+"amostras_pcr": "11491759",
+"amostras_pcr_novas": "42226",
+"amostras_antigenio": "2743706",
+"amostras_antigenio_novas": "26096"
+},
+{
+"data": "15-07-2021",
+"amostras": "14312351",
+"amostras_novas": "76886",
+"amostras_pcr": "11532298",
+"amostras_pcr_novas": "40539",
+"amostras_antigenio": "2780053",
+"amostras_antigenio_novas": "36347"
+},
+{
+"data": "16-07-2021",
+"amostras": "14408031",
+"amostras_novas": "95680",
+"amostras_pcr": "11575270",
+"amostras_pcr_novas": "42972",
+"amostras_antigenio": "2832761",
+"amostras_antigenio_novas": "52708"
+},
+{
+"data": "17-07-2021",
+"amostras": "14470042",
+"amostras_novas": "62011",
+"amostras_pcr": "11608649",
+"amostras_pcr_novas": "33379",
+"amostras_antigenio": "2861393",
+"amostras_antigenio_novas": "28632"
+},
+{
+"data": "18-07-2021",
+"amostras": "14498839",
+"amostras_novas": "28797",
+"amostras_pcr": "11626250",
+"amostras_pcr_novas": "17601",
+"amostras_antigenio": "2872589",
+"amostras_antigenio_novas": "11196"
+},
+{
+"data": "19-07-2021",
+"amostras": "14568458",
+"amostras_novas": "69619",
+"amostras_pcr": "11664292",
+"amostras_pcr_novas": "38042",
+"amostras_antigenio": "2904166",
+"amostras_antigenio_novas": "31577"
+},
+{
+"data": "20-07-2021",
+"amostras": "14637520",
+"amostras_novas": "69062",
+"amostras_pcr": "11709466",
+"amostras_pcr_novas": "45174",
+"amostras_antigenio": "2928054",
+"amostras_antigenio_novas": "23888"
+},
+{
+"data": "21-07-2021",
+"amostras": "14703503",
+"amostras_novas": "65983",
+"amostras_pcr": "11749095",
+"amostras_pcr_novas": "39629",
+"amostras_antigenio": "2954408",
+"amostras_antigenio_novas": "26354"
+},
+{
+"data": "22-07-2021",
+"amostras": "14779001",
+"amostras_novas": "75498",
+"amostras_pcr": "11788410",
+"amostras_pcr_novas": "39315",
+"amostras_antigenio": "2990591",
+"amostras_antigenio_novas": "36183"
+},
+{
+"data": "23-07-2021",
+"amostras": "14873862",
+"amostras_novas": "94861",
+"amostras_pcr": "11827205",
+"amostras_pcr_novas": "38795",
+"amostras_antigenio": "3046657",
+"amostras_antigenio_novas": "56066"
+},
+{
+"data": "24-07-2021",
+"amostras": "14933873",
+"amostras_novas": "60011",
+"amostras_pcr": "11857283",
+"amostras_pcr_novas": "30078",
+"amostras_antigenio": "3076590",
+"amostras_antigenio_novas": "29933"
+},
+{
+"data": "25-07-2021",
+"amostras": "14960880",
+"amostras_novas": "27007",
+"amostras_pcr": "11873849",
+"amostras_pcr_novas": "16566",
+"amostras_antigenio": "3087031",
+"amostras_antigenio_novas": "10441"
+},
+{
+"data": "26-07-2021",
+"amostras": "15029087",
+"amostras_novas": "68207",
+"amostras_pcr": "11910138",
+"amostras_pcr_novas": "36289",
+"amostras_antigenio": "3118949",
+"amostras_antigenio_novas": "31918"
+},
+{
+"data": "27-07-2021",
+"amostras": "15090784",
+"amostras_novas": "61697",
+"amostras_pcr": "11948898",
+"amostras_pcr_novas": "38760",
+"amostras_antigenio": "3141886",
+"amostras_antigenio_novas": "22937"
+},
+{
+"data": "28-07-2021",
+"amostras": "15151363",
+"amostras_novas": "60579",
+"amostras_pcr": "11984696",
+"amostras_pcr_novas": "35798",
+"amostras_antigenio": "3166667",
+"amostras_antigenio_novas": "24781"
+},
+{
+"data": "29-07-2021",
+"amostras": "15224054",
+"amostras_novas": "72691",
+"amostras_pcr": "12021497",
+"amostras_pcr_novas": "36801",
+"amostras_antigenio": "3202557",
+"amostras_antigenio_novas": "35890"
+},
+{
+"data": "30-07-2021",
+"amostras": "15317138",
+"amostras_novas": "93084",
+"amostras_pcr": "12058170",
+"amostras_pcr_novas": "36673",
+"amostras_antigenio": "3258968",
+"amostras_antigenio_novas": "56411"
+},
+{
+"data": "31-07-2021",
+"amostras": "15381301",
+"amostras_novas": "64163",
+"amostras_pcr": "12087806",
+"amostras_pcr_novas": "29636",
+"amostras_antigenio": "3293495",
+"amostras_antigenio_novas": "34527"
+},
+{
+"data": "01-08-2021",
+"amostras": "15405794",
+"amostras_novas": "24493",
+"amostras_pcr": "12102081",
+"amostras_pcr_novas": "14275",
+"amostras_antigenio": "3303713",
+"amostras_antigenio_novas": "10218"
+},
+{
+"data": "02-08-2021",
+"amostras": "15465420",
+"amostras_novas": "59626",
+"amostras_pcr": "12134495",
+"amostras_pcr_novas": "32414",
+"amostras_antigenio": "3330925",
+"amostras_antigenio_novas": "27212"
+},
+{
+"data": "03-08-2021",
+"amostras": "15521368",
+"amostras_novas": "55948",
+"amostras_pcr": "12169153",
+"amostras_pcr_novas": "34658",
+"amostras_antigenio": "3352215",
+"amostras_antigenio_novas": "21290"
+},
+{
+"data": "04-08-2021",
+"amostras": "15576501",
+"amostras_novas": "55133",
+"amostras_pcr": "12200871",
+"amostras_pcr_novas": "31718",
+"amostras_antigenio": "3375630",
+"amostras_antigenio_novas": "23415"
+},
+{
+"data": "05-08-2021",
+"amostras": "15639080",
+"amostras_novas": "62579",
+"amostras_pcr": "12230778",
+"amostras_pcr_novas": "29907",
+"amostras_antigenio": "3408302",
+"amostras_antigenio_novas": "32672"
+},
+{
+"data": "06-08-2021",
+"amostras": "15723293",
+"amostras_novas": "84213",
+"amostras_pcr": "12262899",
+"amostras_pcr_novas": "32121",
+"amostras_antigenio": "3460394",
+"amostras_antigenio_novas": "52092"
+},
+{
+"data": "07-08-2021",
+"amostras": "15780859",
+"amostras_novas": "57566",
+"amostras_pcr": "12287266",
+"amostras_pcr_novas": "24367",
+"amostras_antigenio": "3493593",
+"amostras_antigenio_novas": "33199"
+},
+{
+"data": "08-08-2021",
+"amostras": "15805037",
+"amostras_novas": "24178",
+"amostras_pcr": "12300282",
+"amostras_pcr_novas": "13016",
+"amostras_antigenio": "3504755",
+"amostras_antigenio_novas": "11162"
+},
+{
+"data": "09-08-2021",
+"amostras": "15865745",
+"amostras_novas": "60708",
+"amostras_pcr": "12330819",
+"amostras_pcr_novas": "30537",
+"amostras_antigenio": "3534926",
+"amostras_antigenio_novas": "30171"
+},
+{
+"data": "10-08-2021",
+"amostras": "15922777",
+"amostras_novas": "57032",
+"amostras_pcr": "12362838",
+"amostras_pcr_novas": "32019",
+"amostras_antigenio": "3559939",
+"amostras_antigenio_novas": "25013"
+},
+{
+"data": "11-08-2021",
+"amostras": "15976242",
+"amostras_novas": "53465",
+"amostras_pcr": "12392186",
+"amostras_pcr_novas": "29348",
+"amostras_antigenio": "3584056",
+"amostras_antigenio_novas": "24117"
+},
+{
+"data": "12-08-2021",
+"amostras": "16037936",
+"amostras_novas": "61694",
+"amostras_pcr": "12420676",
+"amostras_pcr_novas": "28490",
+"amostras_antigenio": "3617260",
+"amostras_antigenio_novas": "33204"
+},
+{
+"data": "13-08-2021",
+"amostras": "16120741",
+"amostras_novas": "82805",
+"amostras_pcr": "12450627",
+"amostras_pcr_novas": "29951",
+"amostras_antigenio": "3670114",
+"amostras_antigenio_novas": "52854"
+},
+{
+"data": "14-08-2021",
+"amostras": "16179411",
+"amostras_novas": "58670",
+"amostras_pcr": "12474746",
+"amostras_pcr_novas": "24119",
+"amostras_antigenio": "3704665",
+"amostras_antigenio_novas": "34551"
+},
+{
+"data": "15-08-2021",
+"amostras": "16204267",
+"amostras_novas": "24856",
+"amostras_pcr": "12487001",
+"amostras_pcr_novas": "12255",
+"amostras_antigenio": "3717266",
+"amostras_antigenio_novas": "12601"
+},
+{
+"data": "16-08-2021",
+"amostras": "16267302",
+"amostras_novas": "63035",
+"amostras_pcr": "12517493",
+"amostras_pcr_novas": "30492",
+"amostras_antigenio": "3749809",
+"amostras_antigenio_novas": "32543"
+},
+{
+"data": "17-08-2021",
+"amostras": "16324178",
+"amostras_novas": "56876",
+"amostras_pcr": "12548333",
+"amostras_pcr_novas": "30840",
+"amostras_antigenio": "3775845",
+"amostras_antigenio_novas": "26036"
+},
+{
+"data": "18-08-2021",
+"amostras": "16379698",
+"amostras_novas": "55520",
+"amostras_pcr": "12576543",
+"amostras_pcr_novas": "28210",
+"amostras_antigenio": "3803155",
+"amostras_antigenio_novas": "27310"
+},
+{
+"data": "19-08-2021",
+"amostras": "16439424",
+"amostras_novas": "59726",
+"amostras_pcr": "12604108",
+"amostras_pcr_novas": "27565",
+"amostras_antigenio": "3835316",
+"amostras_antigenio_novas": "32161"
+},
+{
+"data": "20-08-2021",
+"amostras": "16517210",
+"amostras_novas": "77786",
+"amostras_pcr": "12631658",
+"amostras_pcr_novas": "27550",
+"amostras_antigenio": "3885552",
+"amostras_antigenio_novas": "50236"
+},
+{
+"data": "21-08-2021",
+"amostras": "16569753",
+"amostras_novas": "52543",
+"amostras_pcr": "12654390",
+"amostras_pcr_novas": "22732",
+"amostras_antigenio": "3915363",
+"amostras_antigenio_novas": "29811"
+},
+{
+"data": "22-08-2021",
+"amostras": "16592131",
+"amostras_novas": "22378",
+"amostras_pcr": "12666021",
+"amostras_pcr_novas": "11631",
+"amostras_antigenio": "3926110",
+"amostras_antigenio_novas": "10747"
+},
+{
+"data": "23-08-2021",
+"amostras": "16649606",
+"amostras_novas": "57475",
+"amostras_pcr": "12695023",
+"amostras_pcr_novas": "29002",
+"amostras_antigenio": "3954583",
+"amostras_antigenio_novas": "28473"
+},
+{
+"data": "24-08-2021",
+"amostras": "16699757",
+"amostras_novas": "50151",
+"amostras_pcr": "12723061",
+"amostras_pcr_novas": "28038",
+"amostras_antigenio": "3976696",
+"amostras_antigenio_novas": "22113"
+},
+{
+"data": "25-08-2021",
+"amostras": "16751100",
+"amostras_novas": "51343",
+"amostras_pcr": "12751170",
+"amostras_pcr_novas": "28109",
+"amostras_antigenio": "3999930",
+"amostras_antigenio_novas": "23234"
+},
+{
+"data": "26-08-2021",
+"amostras": "16805076",
+"amostras_novas": "53976",
+"amostras_pcr": "12776624",
+"amostras_pcr_novas": "25454",
+"amostras_antigenio": "4028452",
+"amostras_antigenio_novas": "28522"
+},
+{
+"data": "27-08-2021",
+"amostras": "16876752",
+"amostras_novas": "71676",
+"amostras_pcr": "12804749",
+"amostras_pcr_novas": "28125",
+"amostras_antigenio": "4072003",
+"amostras_antigenio_novas": "43551"
+},
+{
+"data": "28-08-2021",
+"amostras": "16926834",
+"amostras_novas": "50082",
+"amostras_pcr": "12827609",
+"amostras_pcr_novas": "22860",
+"amostras_antigenio": "4099225",
+"amostras_antigenio_novas": "27222"
+},
+{
+"data": "29-08-2021",
+"amostras": "16948403",
+"amostras_novas": "21569",
+"amostras_pcr": "12838489",
+"amostras_pcr_novas": "10880",
+"amostras_antigenio": "4109914",
+"amostras_antigenio_novas": "10689"
+},
+{
+"data": "30-08-2021",
+"amostras": "17004255",
+"amostras_novas": "55852",
+"amostras_pcr": "12867656",
+"amostras_pcr_novas": "29167",
+"amostras_antigenio": "4136599",
+"amostras_antigenio_novas": "26685"
+},
+{
+"data": "31-08-2021",
+"amostras": "17055465",
+"amostras_novas": "51210",
+"amostras_pcr": "12895244",
+"amostras_pcr_novas": "27588",
+"amostras_antigenio": "4160221",
+"amostras_antigenio_novas": "23622"
+},
+{
+"data": "01-09-2021",
+"amostras": "17104302",
+"amostras_novas": "48837",
+"amostras_pcr": "12921509",
+"amostras_pcr_novas": "26265",
+"amostras_antigenio": "4182793",
+"amostras_antigenio_novas": "22572"
+},
+{
+"data": "02-09-2021",
+"amostras": "17153567",
+"amostras_novas": "49265",
+"amostras_pcr": "12946474",
+"amostras_pcr_novas": "24965",
+"amostras_antigenio": "4207093",
+"amostras_antigenio_novas": "24300"
+},
+{
+"data": "03-09-2021",
+"amostras": "17218748",
+"amostras_novas": "65181",
+"amostras_pcr": "12972747",
+"amostras_pcr_novas": "26273",
+"amostras_antigenio": "4246001",
+"amostras_antigenio_novas": "38908"
+},
+{
+"data": "04-09-2021",
+"amostras": "17259745",
+"amostras_novas": "40997",
+"amostras_pcr": "12992034",
+"amostras_pcr_novas": "19287",
+"amostras_antigenio": "4267711",
+"amostras_antigenio_novas": "21710"
+},
+{
+"data": "05-09-2021",
+"amostras": "17278537",
+"amostras_novas": "18792",
+"amostras_pcr": "13002262",
+"amostras_pcr_novas": "10228",
+"amostras_antigenio": "4276275",
+"amostras_antigenio_novas": "8564"
+},
+{
+"data": "06-09-2021",
+"amostras": "17325686",
+"amostras_novas": "47149",
+"amostras_pcr": "13027838",
+"amostras_pcr_novas": "25576",
+"amostras_antigenio": "4297848",
+"amostras_antigenio_novas": "21573"
+},
+{
+"data": "07-09-2021",
+"amostras": "17372347",
+"amostras_novas": "46661",
+"amostras_pcr": "13053909",
+"amostras_pcr_novas": "26071",
+"amostras_antigenio": "4318438",
+"amostras_antigenio_novas": "20590"
+},
+{
+"data": "08-09-2021",
+"amostras": "17425739",
+"amostras_novas": "53392",
+"amostras_pcr": "13079115",
+"amostras_pcr_novas": "25206",
+"amostras_antigenio": "4346624",
+"amostras_antigenio_novas": "28186"
+},
+{
+"data": "09-09-2021",
+"amostras": "17487984",
+"amostras_novas": "62245",
+"amostras_pcr": "13101153",
+"amostras_pcr_novas": "22038",
+"amostras_antigenio": "4386831",
+"amostras_antigenio_novas": "40207"
+},
+{
+"data": "10-09-2021",
+"amostras": "17565780",
+"amostras_novas": "77796",
+"amostras_pcr": "13125126",
+"amostras_pcr_novas": "23973",
+"amostras_antigenio": "4440654",
+"amostras_antigenio_novas": "53823"
+},
+{
+"data": "11-09-2021",
+"amostras": "17607207",
+"amostras_novas": "41427",
+"amostras_pcr": "13143859",
+"amostras_pcr_novas": "18733",
+"amostras_antigenio": "4463348",
+"amostras_antigenio_novas": "22694"
+},
+{
+"data": "12-09-2021",
+"amostras": "17624476",
+"amostras_novas": "17269",
+"amostras_pcr": "13153832",
+"amostras_pcr_novas": "9973",
+"amostras_antigenio": "4470644",
+"amostras_antigenio_novas": "7296"
+},
+{
+"data": "13-09-2021",
+"amostras": "17693662",
+"amostras_novas": "69186",
+"amostras_pcr": "13180118",
+"amostras_pcr_novas": "26286",
+"amostras_antigenio": "4513544",
+"amostras_antigenio_novas": "42900"
+},
+{
+"data": "14-09-2021",
+"amostras": "17763916",
+"amostras_novas": "70254",
+"amostras_pcr": "13205205",
+"amostras_pcr_novas": "25087",
+"amostras_antigenio": "4558711",
+"amostras_antigenio_novas": "45167"
+},
+{
+"data": "15-09-2021",
+"amostras": "17835605",
+"amostras_novas": "71689",
+"amostras_pcr": "13228589",
+"amostras_pcr_novas": "23384",
+"amostras_antigenio": "4607016",
+"amostras_antigenio_novas": "48305"
+},
+{
+"data": "16-09-2021",
+"amostras": "17902228",
+"amostras_novas": "66623",
+"amostras_pcr": "13250930",
+"amostras_pcr_novas": "22341",
+"amostras_antigenio": "4651298",
+"amostras_antigenio_novas": "44282"
+},
+{
+"data": "17-09-2021",
+"amostras": "17971249",
+"amostras_novas": "69021",
+"amostras_pcr": "13276075",
+"amostras_pcr_novas": "25145",
+"amostras_antigenio": "4695174",
+"amostras_antigenio_novas": "43876"
+},
+{
+"data": "18-09-2021",
+"amostras": "18007805",
+"amostras_novas": "36556",
+"amostras_pcr": "13294613",
+"amostras_pcr_novas": "18538",
+"amostras_antigenio": "4713192",
+"amostras_antigenio_novas": "18018"
+},
+{
+"data": "19-09-2021",
+"amostras": "18024792",
+"amostras_novas": "16987",
+"amostras_pcr": "13304548",
+"amostras_pcr_novas": "9935",
+"amostras_antigenio": "4720244",
+"amostras_antigenio_novas": "7052"
+},
+{
+"data": "20-09-2021",
+"amostras": "18075859",
+"amostras_novas": "51067",
+"amostras_pcr": "13330460",
+"amostras_pcr_novas": "25912",
+"amostras_antigenio": "4745399",
+"amostras_antigenio_novas": "25155"
+},
+{
+"data": "21-09-2021",
+"amostras": "18129451",
+"amostras_novas": "53592",
+"amostras_pcr": "13354442",
+"amostras_pcr_novas": "23982",
+"amostras_antigenio": "4775009",
+"amostras_antigenio_novas": "29610"
+},
+{
+"data": "22-09-2021",
+"amostras": "18192025",
+"amostras_novas": "62574",
+"amostras_pcr": "13378738",
+"amostras_pcr_novas": "24296",
+"amostras_antigenio": "4813287",
+"amostras_antigenio_novas": "38278"
+},
+{
+"data": "23-09-2021",
+"amostras": "18263260",
+"amostras_novas": "71235",
+"amostras_pcr": "13401873",
+"amostras_pcr_novas": "23135",
+"amostras_antigenio": "4861387",
+"amostras_antigenio_novas": "48100"
+},
+{
+"data": "24-09-2021",
+"amostras": "18341171",
+"amostras_novas": "77911",
+"amostras_pcr": "13426371",
+"amostras_pcr_novas": "24498",
+"amostras_antigenio": "4914800",
+"amostras_antigenio_novas": "53413"
+},
+{
+"data": "25-09-2021",
+"amostras": "18377832",
+"amostras_novas": "36661",
+"amostras_pcr": "13445204",
+"amostras_pcr_novas": "18833",
+"amostras_antigenio": "4932628",
+"amostras_antigenio_novas": "17828"
+},
+{
+"data": "26-09-2021",
+"amostras": "18394662",
+"amostras_novas": "16830",
+"amostras_pcr": "13455891",
+"amostras_pcr_novas": "10687",
+"amostras_antigenio": "4938771",
+"amostras_antigenio_novas": "6143"
+},
+{
+"data": "27-09-2021",
+"amostras": "18457676",
+"amostras_novas": "63014",
+"amostras_pcr": "13482625",
+"amostras_pcr_novas": "26734",
+"amostras_antigenio": "4975051",
+"amostras_antigenio_novas": "36280"
+},
+{
+"data": "28-09-2021",
+"amostras": "18525447",
+"amostras_novas": "67771",
+"amostras_pcr": "13508871",
+"amostras_pcr_novas": "26246",
+"amostras_antigenio": "5016576",
+"amostras_antigenio_novas": "41525"
+},
+{
+"data": "29-09-2021",
+"amostras": "18590834",
+"amostras_novas": "65387",
+"amostras_pcr": "13533960",
+"amostras_pcr_novas": "25089",
+"amostras_antigenio": "5056874",
+"amostras_antigenio_novas": "40298"
+},
+{
+"data": "30-09-2021",
+"amostras": "18654841",
+"amostras_novas": "64007",
+"amostras_pcr": "13558749",
+"amostras_pcr_novas": "24789",
+"amostras_antigenio": "5096092",
+"amostras_antigenio_novas": "39218"
+},
+{
+"data": "01-10-2021",
+"amostras": "18714633",
+"amostras_novas": "59792",
+"amostras_pcr": "13582723",
+"amostras_pcr_novas": "23974",
+"amostras_antigenio": "5131910",
+"amostras_antigenio_novas": "35818"
+},
+{
+"data": "02-10-2021",
+"amostras": "18750639",
+"amostras_novas": "36006",
+"amostras_pcr": "13600003",
+"amostras_pcr_novas": "17280",
+"amostras_antigenio": "5150636",
+"amostras_antigenio_novas": "18726"
+},
+{
+"data": "03-10-2021",
+"amostras": "18770952",
+"amostras_novas": "20313",
+"amostras_pcr": "13611153",
+"amostras_pcr_novas": "11150",
+"amostras_antigenio": "5159799",
+"amostras_antigenio_novas": "9163"
+},
+{
+"data": "04-10-2021",
+"amostras": "18812721",
+"amostras_novas": "41769",
+"amostras_pcr": "13633287",
+"amostras_pcr_novas": "22134",
+"amostras_antigenio": "5179434",
+"amostras_antigenio_novas": "19635"
+},
+{
+"data": "05-10-2021",
+"amostras": "18834649",
+"amostras_novas": "21928",
+"amostras_pcr": "13649406",
+"amostras_pcr_novas": "16119",
+"amostras_antigenio": "5185243",
+"amostras_antigenio_novas": "5809"
+},
+{
+"data": "06-10-2021",
+"amostras": "18880990",
+"amostras_novas": "46341",
+"amostras_pcr": "13672021",
+"amostras_pcr_novas": "22615",
+"amostras_antigenio": "5208969",
+"amostras_antigenio_novas": "23726"
+},
+{
+"data": "07-10-2021",
+"amostras": "18941151",
+"amostras_novas": "60161",
+"amostras_pcr": "13697560",
+"amostras_pcr_novas": "25539",
+"amostras_antigenio": "5243591",
+"amostras_antigenio_novas": "34622"
+},
+{
+"data": "08-10-2021",
+"amostras": "19002811",
+"amostras_novas": "61660",
+"amostras_pcr": "13721193",
+"amostras_pcr_novas": "23633",
+"amostras_antigenio": "5281618",
+"amostras_antigenio_novas": "38027"
+},
+{
+"data": "09-10-2021",
+"amostras": "19035836",
+"amostras_novas": "33025",
+"amostras_pcr": "13738417",
+"amostras_pcr_novas": "17224",
+"amostras_antigenio": "5297419",
+"amostras_antigenio_novas": "15801"
+},
+{
+"data": "10-10-2021",
+"amostras": "19058314",
+"amostras_novas": "22478",
+"amostras_pcr": "13753991",
+"amostras_pcr_novas": "15574",
+"amostras_antigenio": "5304323",
+"amostras_antigenio_novas": "6904"
+},
+{
+"data": "11-10-2021",
+"amostras": "19108588",
+"amostras_novas": "50274",
+"amostras_pcr": "13775709",
+"amostras_pcr_novas": "21718",
+"amostras_antigenio": "5332879",
+"amostras_antigenio_novas": "28556"
+},
+{
+"data": "12-10-2021",
+"amostras": "19178566",
+"amostras_novas": "69978",
+"amostras_pcr": "13804256",
+"amostras_pcr_novas": "28547",
+"amostras_antigenio": "5374310",
+"amostras_antigenio_novas": "41431"
+},
+{
+"data": "13-10-2021",
+"amostras": "19242346",
+"amostras_novas": "63780",
+"amostras_pcr": "13827407",
+"amostras_pcr_novas": "23151",
+"amostras_antigenio": "5414939",
+"amostras_antigenio_novas": "40629"
+},
+{
+"data": "14-10-2021",
+"amostras": "19302161",
+"amostras_novas": "59815",
+"amostras_pcr": "13849951",
+"amostras_pcr_novas": "22544",
+"amostras_antigenio": "5452210",
+"amostras_antigenio_novas": "37271"
+},
+{
+"data": "15-10-2021",
+"amostras": "19370512",
+"amostras_novas": "68351",
+"amostras_pcr": "13872633",
+"amostras_pcr_novas": "22682",
+"amostras_antigenio": "5497879",
+"amostras_antigenio_novas": "45669"
+},
+{
+"data": "16-10-2021",
+"amostras": "19403452",
+"amostras_novas": "32940",
+"amostras_pcr": "13889949",
+"amostras_pcr_novas": "17316",
+"amostras_antigenio": "5513503",
+"amostras_antigenio_novas": "15624"
+},
+{
+"data": "17-10-2021",
+"amostras": "19422832",
+"amostras_novas": "19380",
+"amostras_pcr": "13901800",
+"amostras_pcr_novas": "11851",
+"amostras_antigenio": "5521032",
+"amostras_antigenio_novas": "7529"
+},
+{
+"data": "18-10-2021",
+"amostras": "19464524",
+"amostras_novas": "41692",
+"amostras_pcr": "13923935",
+"amostras_pcr_novas": "22135",
+"amostras_antigenio": "5540589",
+"amostras_antigenio_novas": "19557"
+},
+{
+"data": "19-10-2021",
+"amostras": "19507914",
+"amostras_novas": "43390",
+"amostras_pcr": "13950223",
+"amostras_pcr_novas": "26288",
+"amostras_antigenio": "5557691",
+"amostras_antigenio_novas": "17102"
+},
+{
+"data": "20-10-2021",
+"amostras": "19546533",
+"amostras_novas": "38619",
+"amostras_pcr": "13973285",
+"amostras_pcr_novas": "23062",
+"amostras_antigenio": "5573248",
+"amostras_antigenio_novas": "15557"
+},
+{
+"data": "21-10-2021",
+"amostras": "19593728",
+"amostras_novas": "47195",
+"amostras_pcr": "13997773",
+"amostras_pcr_novas": "24488",
+"amostras_antigenio": "5595955",
+"amostras_antigenio_novas": "22707"
+},
+{
+"data": "22-10-2021",
+"amostras": "19634751",
+"amostras_novas": "41023",
+"amostras_pcr": "14020563",
+"amostras_pcr_novas": "22790",
+"amostras_antigenio": "5614188",
+"amostras_antigenio_novas": "18233"
+},
+{
+"data": "23-10-2021",
+"amostras": "19661295",
+"amostras_novas": "26544",
+"amostras_pcr": "14038437",
+"amostras_pcr_novas": "17874",
+"amostras_antigenio": "5622858",
+"amostras_antigenio_novas": "8670"
+},
+{
+"data": "24-10-2021",
+"amostras": "19676263",
+"amostras_novas": "14968",
+"amostras_pcr": "14048789",
+"amostras_pcr_novas": "10352",
+"amostras_antigenio": "5627474",
+"amostras_antigenio_novas": "4616"
+},
+{
+"data": "25-10-2021",
+"amostras": "19711548",
+"amostras_novas": "35285",
+"amostras_pcr": "14071667",
+"amostras_pcr_novas": "22878",
+"amostras_antigenio": "5639881",
+"amostras_antigenio_novas": "12407"
+},
+{
+"data": "26-10-2021",
+"amostras": "19749228",
+"amostras_novas": "37680",
+"amostras_pcr": "14098278",
+"amostras_pcr_novas": "26611",
+"amostras_antigenio": "5650950",
+"amostras_antigenio_novas": "11069"
+},
+{
+"data": "27-10-2021",
+"amostras": "19784847",
+"amostras_novas": "35619",
+"amostras_pcr": "14123212",
+"amostras_pcr_novas": "24934",
+"amostras_antigenio": "5661635",
+"amostras_antigenio_novas": "10685"
+},
+{
+"data": "28-10-2021",
+"amostras": "19819716",
+"amostras_novas": "34869",
+"amostras_pcr": "14145729",
+"amostras_pcr_novas": "22517",
+"amostras_antigenio": "5673987",
+"amostras_antigenio_novas": "12352"
+},
+{
+"data": "29-10-2021",
+"amostras": "19855030",
+"amostras_novas": "35314",
+"amostras_pcr": "14167507",
+"amostras_pcr_novas": "21778",
+"amostras_antigenio": "5687523",
+"amostras_antigenio_novas": "13536"
+},
+{
+"data": "30-10-2021",
+"amostras": "19885322",
+"amostras_novas": "30292",
+"amostras_pcr": "14187380",
+"amostras_pcr_novas": "19873",
+"amostras_antigenio": "5697942",
+"amostras_antigenio_novas": "10419"
+},
+{
+"data": "31-10-2021",
+"amostras": "19902849",
+"amostras_novas": "17527",
+"amostras_pcr": "14199094",
+"amostras_pcr_novas": "11714",
+"amostras_antigenio": "5703755",
+"amostras_antigenio_novas": "5813"
+},
+{
+"data": "01-11-2021",
+"amostras": "19921165",
+"amostras_novas": "18316",
+"amostras_pcr": "14210619",
+"amostras_pcr_novas": "11525",
+"amostras_antigenio": "5710546",
+"amostras_antigenio_novas": "6791"
+},
+{
+"data": "02-11-2021",
+"amostras": "19954725",
+"amostras_novas": "33560",
+"amostras_pcr": "14232931",
+"amostras_pcr_novas": "22312",
+"amostras_antigenio": "5721794",
+"amostras_antigenio_novas": "11248"
+},
+{
+"data": "03-11-2021",
+"amostras": "19994436",
+"amostras_novas": "39711",
+"amostras_pcr": "14260789",
+"amostras_pcr_novas": "27858",
+"amostras_antigenio": "5733647",
+"amostras_antigenio_novas": "11853"
+},
+{
+"data": "04-11-2021",
+"amostras": "20033212",
+"amostras_novas": "38776",
+"amostras_pcr": "14286618",
+"amostras_pcr_novas": "25829",
+"amostras_antigenio": "5746594",
+"amostras_antigenio_novas": "12947"
+},
+{
+"data": "05-11-2021",
+"amostras": "20073920",
+"amostras_novas": "40708",
+"amostras_pcr": "14312680",
+"amostras_pcr_novas": "26062",
+"amostras_antigenio": "5761240",
+"amostras_antigenio_novas": "14646"
+},
+{
+"data": "06-11-2021",
+"amostras": "20104769",
+"amostras_novas": "30849",
+"amostras_pcr": "14334399",
+"amostras_pcr_novas": "21719",
+"amostras_antigenio": "5770370",
+"amostras_antigenio_novas": "9130"
+},
+{
+"data": "07-11-2021",
+"amostras": "20122662",
+"amostras_novas": "17893",
+"amostras_pcr": "14347991",
+"amostras_pcr_novas": "13592",
+"amostras_antigenio": "5774671",
+"amostras_antigenio_novas": "4301"
+},
+{
+"data": "08-11-2021",
+"amostras": "20159274",
+"amostras_novas": "36612",
+"amostras_pcr": "14372350",
+"amostras_pcr_novas": "24359",
+"amostras_antigenio": "5786924",
+"amostras_antigenio_novas": "12253"
+},
+{
+"data": "09-11-2021",
+"amostras": "20199753",
+"amostras_novas": "40479",
+"amostras_pcr": "14401949",
+"amostras_pcr_novas": "29599",
+"amostras_antigenio": "5797804",
+"amostras_antigenio_novas": "10880"
+},
+{
+"data": "10-11-2021",
+"amostras": "20238803",
+"amostras_novas": "39050",
+"amostras_pcr": "14429127",
+"amostras_pcr_novas": "27178",
+"amostras_antigenio": "5809676",
+"amostras_antigenio_novas": "11872"
+},
+{
+"data": "11-11-2021",
+"amostras": "20283015",
+"amostras_novas": "44212",
+"amostras_pcr": "14458274",
+"amostras_pcr_novas": "29147",
+"amostras_antigenio": "5824741",
+"amostras_antigenio_novas": "15065"
+},
+{
+"data": "12-11-2021",
+"amostras": "20327460",
+"amostras_novas": "44445",
+"amostras_pcr": "14487432",
+"amostras_pcr_novas": "29158",
+"amostras_antigenio": "5840028",
+"amostras_antigenio_novas": "15287"
+},
+{
+"data": "13-11-2021",
+"amostras": "20361702",
+"amostras_novas": "34242",
+"amostras_pcr": "14511658",
+"amostras_pcr_novas": "24226",
+"amostras_antigenio": "5850044",
+"amostras_antigenio_novas": "10016"
+},
+{
+"data": "14-11-2021",
+"amostras": "20385083",
+"amostras_novas": "23381",
+"amostras_pcr": "14528878",
+"amostras_pcr_novas": "17220",
+"amostras_antigenio": "5856205",
+"amostras_antigenio_novas": "6161"
+},
+{
+"data": "15-11-2021",
+"amostras": "20425528",
+"amostras_novas": "40445",
+"amostras_pcr": "14555606",
+"amostras_pcr_novas": "26728",
+"amostras_antigenio": "5869922",
+"amostras_antigenio_novas": "13717"
+},
+{
+"data": "16-11-2021",
+"amostras": "20477076",
+"amostras_novas": "51548",
+"amostras_pcr": "14593614",
+"amostras_pcr_novas": "38008",
+"amostras_antigenio": "5883462",
+"amostras_antigenio_novas": "13540"
+},
+{
+"data": "17-11-2021",
+"amostras": "20530528",
+"amostras_novas": "53452",
+"amostras_pcr": "14631068",
+"amostras_pcr_novas": "37454",
+"amostras_antigenio": "5899460",
+"amostras_antigenio_novas": "15998"
+},
+{
+"data": "18-11-2021",
+"amostras": "20580585",
+"amostras_novas": "50057",
+"amostras_pcr": "14664360",
+"amostras_pcr_novas": "33292",
+"amostras_antigenio": "5916225",
+"amostras_antigenio_novas": "16765"
+},
+{
+"data": "19-11-2021",
+"amostras": "20644007",
+"amostras_novas": "63422",
+"amostras_pcr": "14700173",
+"amostras_pcr_novas": "35813",
+"amostras_antigenio": "5943834",
+"amostras_antigenio_novas": "27609"
+},
+{
+"data": "20-11-2021",
+"amostras": "20692707",
+"amostras_novas": "48700",
+"amostras_pcr": "14731020",
+"amostras_pcr_novas": "30847",
+"amostras_antigenio": "5961687",
+"amostras_antigenio_novas": "17853"
+},
+{
+"data": "21-11-2021",
+"amostras": "20719128",
+"amostras_novas": "26421",
+"amostras_pcr": "14750269",
+"amostras_pcr_novas": "19249",
+"amostras_antigenio": "5968859",
+"amostras_antigenio_novas": "7172"
+},
+{
+"data": "22-11-2021",
+"amostras": "20775333",
+"amostras_novas": "56205",
+"amostras_pcr": "14783135",
+"amostras_pcr_novas": "32866",
+"amostras_antigenio": "5992198",
+"amostras_antigenio_novas": "23339"
+},
+{
+"data": "23-11-2021",
+"amostras": "20844492",
+"amostras_novas": "69159",
+"amostras_pcr": "14827498",
+"amostras_pcr_novas": "44363",
+"amostras_antigenio": "6016994",
+"amostras_antigenio_novas": "24796"
+},
+{
+"data": "24-11-2021",
+"amostras": "20915616",
+"amostras_novas": "71124",
+"amostras_pcr": "14869092",
+"amostras_pcr_novas": "41594",
+"amostras_antigenio": "6046524",
+"amostras_antigenio_novas": "29530"
+},
+{
+"data": "25-11-2021",
+"amostras": "20995352",
+"amostras_novas": "79736",
+"amostras_pcr": "14909525",
+"amostras_pcr_novas": "40433",
+"amostras_antigenio": "6085827",
+"amostras_antigenio_novas": "39303"
+},
+{
+"data": "26-11-2021",
+"amostras": "21093446",
+"amostras_novas": "98094",
+"amostras_pcr": "14954109",
+"amostras_pcr_novas": "44584",
+"amostras_antigenio": "6139337",
+"amostras_antigenio_novas": "53510"
+},
+{
+"data": "27-11-2021",
+"amostras": "21165845",
+"amostras_novas": "72399",
+"amostras_pcr": "14992815",
+"amostras_pcr_novas": "38706",
+"amostras_antigenio": "6173030",
+"amostras_antigenio_novas": "33693"
+},
+{
+"data": "28-11-2021",
+"amostras": "21204977",
+"amostras_novas": "39132",
+"amostras_pcr": "15015102",
+"amostras_pcr_novas": "22287",
+"amostras_antigenio": "6189875",
+"amostras_antigenio_novas": "16845"
+},
+{
+"data": "29-11-2021",
+"amostras": "21283107",
+"amostras_novas": "78130",
+"amostras_pcr": "15048100",
+"amostras_pcr_novas": "32998",
+"amostras_antigenio": "6235007",
+"amostras_antigenio_novas": "45132"
+},
+{
+"data": "30-11-2021",
+"amostras": "21400088",
+"amostras_novas": "116981",
+"amostras_pcr": "15099306",
+"amostras_pcr_novas": "51206",
+"amostras_antigenio": "6300782",
+"amostras_antigenio_novas": "65775"
+},
+{
+"data": "01-12-2021",
+"amostras": "21467679",
+"amostras_novas": "67591",
+"amostras_pcr": "15135832",
+"amostras_pcr_novas": "36526",
+"amostras_antigenio": "6331847",
+"amostras_antigenio_novas": "31065"
+},
+{
+"data": "02-12-2021",
+"amostras": "21580491",
+"amostras_novas": "112812",
+"amostras_pcr": "15162577",
+"amostras_pcr_novas": "26745",
+"amostras_antigenio": "6417914",
+"amostras_antigenio_novas": "86067"
+},
+{
+"data": "03-12-2021",
+"amostras": "21748627",
+"amostras_novas": "168136",
+"amostras_pcr": "15213712",
+"amostras_pcr_novas": "51135",
+"amostras_antigenio": "6534915",
+"amostras_antigenio_novas": "117001"
+},
+{
+"data": "04-12-2021",
+"amostras": "21858506",
+"amostras_novas": "109879",
+"amostras_pcr": "15260030",
+"amostras_pcr_novas": "46318",
+"amostras_antigenio": "6598476",
+"amostras_antigenio_novas": "63561"
+},
+{
+"data": "05-12-2021",
+"amostras": "21916759",
+"amostras_novas": "58253",
+"amostras_pcr": "15289406",
+"amostras_pcr_novas": "29376",
+"amostras_antigenio": "6627353",
+"amostras_antigenio_novas": "28877"
+},
+{
+"data": "06-12-2021",
+"amostras": "22042987",
+"amostras_novas": "126228",
+"amostras_pcr": "15325438",
+"amostras_pcr_novas": "36032",
+"amostras_antigenio": "6717549",
+"amostras_antigenio_novas": "90196"
+},
+{
+"data": "07-12-2021",
+"amostras": "22211060",
+"amostras_novas": "168073",
+"amostras_pcr": "15382600",
+"amostras_pcr_novas": "57162",
+"amostras_antigenio": "6828460",
+"amostras_antigenio_novas": "110911"
+},
+{
+"data": "08-12-2021",
+"amostras": "22298899",
+"amostras_novas": "87839",
+"amostras_pcr": "15424570",
+"amostras_pcr_novas": "41970",
+"amostras_antigenio": "6874329",
+"amostras_antigenio_novas": "45869"
+},
+{
+"data": "09-12-2021",
+"amostras": "22443244",
+"amostras_novas": "144345",
+"amostras_pcr": "15465542",
+"amostras_pcr_novas": "40972",
+"amostras_antigenio": "6977702",
+"amostras_antigenio_novas": "103373"
+},
+{
+"data": "10-12-2021",
+"amostras": "22640962",
+"amostras_novas": "197718",
+"amostras_pcr": "15521492",
+"amostras_pcr_novas": "55950",
+"amostras_antigenio": "7119470",
+"amostras_antigenio_novas": "141768"
+},
+{
+"data": "11-12-2021",
+"amostras": "22787039",
+"amostras_novas": "146077",
+"amostras_pcr": "15570365",
+"amostras_pcr_novas": "48873",
+"amostras_antigenio": "7216674",
+"amostras_antigenio_novas": "97204"
+},
+{
+"data": "12-12-2021",
+"amostras": "22855272",
+"amostras_novas": "68233",
+"amostras_pcr": "15597175",
+"amostras_pcr_novas": "26810",
+"amostras_antigenio": "7258097",
+"amostras_antigenio_novas": "41423"
+},
+{
+"data": "13-12-2021",
+"amostras": "22977916",
+"amostras_novas": "122644",
+"amostras_pcr": "15635549",
+"amostras_pcr_novas": "38374",
+"amostras_antigenio": "7342367",
+"amostras_antigenio_novas": "84270"
+},
+{
+"data": "14-12-2021",
+"amostras": "23124747",
+"amostras_novas": "146831",
+"amostras_pcr": "15698466",
+"amostras_pcr_novas": "62917",
+"amostras_antigenio": "7426281",
+"amostras_antigenio_novas": "83914"
+},
+{
+"data": "15-12-2021",
+"amostras": "23265367",
+"amostras_novas": "140620",
+"amostras_pcr": "15753912",
+"amostras_pcr_novas": "55446",
+"amostras_antigenio": "7511455",
+"amostras_antigenio_novas": "85174"
+},
+{
+"data": "16-12-2021",
+"amostras": "23437697",
+"amostras_novas": "172330",
+"amostras_pcr": "15803509",
+"amostras_pcr_novas": "49597",
+"amostras_antigenio": "7634188",
+"amostras_antigenio_novas": "122733"
+},
+{
+"data": "17-12-2021",
+"amostras": "23664981",
+"amostras_novas": "227284",
+"amostras_pcr": "15858460",
+"amostras_pcr_novas": "54951",
+"amostras_antigenio": "7806521",
+"amostras_antigenio_novas": "172333"
+},
+{
+"data": "18-12-2021",
+"amostras": "23826316",
+"amostras_novas": "161335",
+"amostras_pcr": "15904316",
+"amostras_pcr_novas": "45856",
+"amostras_antigenio": "7922000",
+"amostras_antigenio_novas": "115479"
+},
+{
+"data": "19-12-2021",
+"amostras": "23905081",
+"amostras_novas": "78765",
+"amostras_pcr": "15932421",
+"amostras_pcr_novas": "28105",
+"amostras_antigenio": "7972660",
+"amostras_antigenio_novas": "50660"
+},
+{
+"data": "20-12-2021",
+"amostras": "24056249",
+"amostras_novas": "151168",
+"amostras_pcr": "15972322",
+"amostras_pcr_novas": "39901",
+"amostras_antigenio": "8083927",
+"amostras_antigenio_novas": "111267"
+},
+{
+"data": "21-12-2021",
+"amostras": "24244422",
+"amostras_novas": "188173",
+"amostras_pcr": "16032229",
+"amostras_pcr_novas": "59907",
+"amostras_antigenio": "8212193",
+"amostras_antigenio_novas": "128266"
+},
+{
+"data": "22-12-2021",
+"amostras": "24494256",
+"amostras_novas": "249834",
+"amostras_pcr": "16095927",
+"amostras_pcr_novas": "63698",
+"amostras_antigenio": "8398329",
+"amostras_antigenio_novas": "186136"
+},
+{
+"data": "23-12-2021",
+"amostras": "24854086",
+"amostras_novas": "359830",
+"amostras_pcr": "16168677",
+"amostras_pcr_novas": "72750",
+"amostras_antigenio": "8685409",
+"amostras_antigenio_novas": "287080"
+},
+{
+"data": "24-12-2021",
+"amostras": "25114814",
+"amostras_novas": "260728",
+"amostras_pcr": "16228434",
+"amostras_pcr_novas": "59757",
+"amostras_antigenio": "8886380",
+"amostras_antigenio_novas": "200971"
+},
+{
+"data": "25-12-2021",
+"amostras": "25162551",
+"amostras_novas": "47737",
+"amostras_pcr": "16253860",
+"amostras_pcr_novas": "25426",
+"amostras_antigenio": "8908691",
+"amostras_antigenio_novas": "22311"
+},
+{
+"data": "26-12-2021",
+"amostras": "25252238",
+"amostras_novas": "89687",
+"amostras_pcr": "16280682",
+"amostras_pcr_novas": "26822",
+"amostras_antigenio": "8971556",
+"amostras_antigenio_novas": "62865"
+},
+{
+"data": "27-12-2021",
+"amostras": "25486997",
+"amostras_novas": "234759",
+"amostras_pcr": "16330988",
+"amostras_pcr_novas": "50306",
+"amostras_antigenio": "9156009",
+"amostras_antigenio_novas": "184453"
+},
+{
+"data": "28-12-2021",
+"amostras": "25760643",
+"amostras_novas": "273646",
+"amostras_pcr": "16409072",
+"amostras_pcr_novas": "78084",
+"amostras_antigenio": "9351571",
+"amostras_antigenio_novas": "195562"
+},
+{
+"data": "29-12-2021",
+"amostras": "26078371",
+"amostras_novas": "317728",
+"amostras_pcr": "16491505",
+"amostras_pcr_novas": "82433",
+"amostras_antigenio": "9586866",
+"amostras_antigenio_novas": "235295"
+},
+{
+"data": "30-12-2021",
+"amostras": "26481127",
+"amostras_novas": "402756",
+"amostras_pcr": "16586563",
+"amostras_pcr_novas": "95058",
+"amostras_antigenio": "9894564",
+"amostras_antigenio_novas": "307698"
+},
+{
+"data": "31-12-2021",
+"amostras": "26804825",
+"amostras_novas": "323698",
+"amostras_pcr": "16665086",
+"amostras_pcr_novas": "78523",
+"amostras_antigenio": "10139739",
+"amostras_antigenio_novas": "245175"
+},
+{
+"data": "01-01-2022",
+"amostras": "26887506",
+"amostras_novas": "82681",
+"amostras_pcr": "16710335",
+"amostras_pcr_novas": "45249",
+"amostras_antigenio": "10177171",
+"amostras_antigenio_novas": "37432"
+},
+{
+"data": "02-01-2022",
+"amostras": "26985793",
+"amostras_novas": "98287",
+"amostras_pcr": "16742214",
+"amostras_pcr_novas": "31879",
+"amostras_antigenio": "10243579",
+"amostras_antigenio_novas": "66408"
+},
+{
+"data": "03-01-2022",
+"amostras": "27237600",
+"amostras_novas": "251807",
+"amostras_pcr": "16798202",
+"amostras_pcr_novas": "55988",
+"amostras_antigenio": "10439398",
+"amostras_antigenio_novas": "195819"
+},
+{
+"data": "04-01-2022",
+"amostras": "27515490",
+"amostras_novas": "277890",
+"amostras_pcr": "16895263",
+"amostras_pcr_novas": "97061",
+"amostras_antigenio": "10620227",
+"amostras_antigenio_novas": "180829"
+},
+{
+"data": "05-01-2022",
+"amostras": "27780292",
+"amostras_novas": "264802",
+"amostras_pcr": "16991840",
+"amostras_pcr_novas": "96577",
+"amostras_antigenio": "10788452",
+"amostras_antigenio_novas": "168225"
+},
+{
+"data": "06-01-2022",
+"amostras": "28074538",
+"amostras_novas": "294246",
+"amostras_pcr": "17089552",
+"amostras_pcr_novas": "97712",
+"amostras_antigenio": "10984986",
+"amostras_antigenio_novas": "196534"
+},
+{
+"data": "07-01-2022",
+"amostras": "28388361",
+"amostras_novas": "313823",
+"amostras_pcr": "17176786",
+"amostras_pcr_novas": "87234",
+"amostras_antigenio": "11211575",
+"amostras_antigenio_novas": "226589"
+},
+{
+"data": "08-01-2022",
+"amostras": "28607331",
+"amostras_novas": "218970",
+"amostras_pcr": "17250123",
+"amostras_pcr_novas": "73337",
+"amostras_antigenio": "11357208",
+"amostras_antigenio_novas": "145633"
+},
+{
+"data": "09-01-2022",
+"amostras": "28722635",
+"amostras_novas": "115304",
+"amostras_pcr": "17296291",
+"amostras_pcr_novas": "46168",
+"amostras_antigenio": "11426344",
+"amostras_antigenio_novas": "69136"
+},
+{
+"data": "10-01-2022",
+"amostras": "28965597",
+"amostras_novas": "242962",
+"amostras_pcr": "17360933",
+"amostras_pcr_novas": "64642",
+"amostras_antigenio": "11604664",
+"amostras_antigenio_novas": "178320"
+},
+{
+"data": "11-01-2022",
+"amostras": "29215284",
+"amostras_novas": "249687",
+"amostras_pcr": "17448427",
+"amostras_pcr_novas": "87494",
+"amostras_antigenio": "11766857",
+"amostras_antigenio_novas": "162193"
+},
+{
+"data": "12-01-2022",
+"amostras": "29465673",
+"amostras_novas": "250389",
+"amostras_pcr": "17531297",
+"amostras_pcr_novas": "82870",
+"amostras_antigenio": "11934376",
+"amostras_antigenio_novas": "167519"
+},
+{
+"data": "13-01-2022",
+"amostras": "29747183",
+"amostras_novas": "281510",
+"amostras_pcr": "17612674",
+"amostras_pcr_novas": "81377",
+"amostras_antigenio": "12134509",
+"amostras_antigenio_novas": "200133"
+},
+{
+"data": "14-01-2022",
+"amostras": "30074386",
+"amostras_novas": "327203",
+"amostras_pcr": "17693804",
+"amostras_pcr_novas": "81130",
+"amostras_antigenio": "12380582",
+"amostras_antigenio_novas": "246073"
+},
+{
+"data": "15-01-2022",
+"amostras": "30295166",
+"amostras_novas": "220780",
+"amostras_pcr": "17765059",
+"amostras_pcr_novas": "71255",
+"amostras_antigenio": "12530107",
+"amostras_antigenio_novas": "149525"
+},
+{
+"data": "16-01-2022",
+"amostras": "30415088",
+"amostras_novas": "119922",
+"amostras_pcr": "17809711",
+"amostras_pcr_novas": "44652",
+"amostras_antigenio": "12605377",
+"amostras_antigenio_novas": "75270"
+},
+{
+"data": "17-01-2022",
+"amostras": "30696882",
+"amostras_novas": "281794",
+"amostras_pcr": "17873001",
+"amostras_pcr_novas": "63290",
+"amostras_antigenio": "12823881",
+"amostras_antigenio_novas": "218504"
+},
+{
+"data": "18-01-2022",
+"amostras": "30995451",
+"amostras_novas": "298569",
+"amostras_pcr": "17963850",
+"amostras_pcr_novas": "90849",
+"amostras_antigenio": "13031601",
+"amostras_antigenio_novas": "207720"
+},
+{
+"data": "19-01-2022",
+"amostras": "31306640",
+"amostras_novas": "311189",
+"amostras_pcr": "18057603",
+"amostras_pcr_novas": "93753",
+"amostras_antigenio": "13249037",
+"amostras_antigenio_novas": "217436"
+},
+{
+"data": "20-01-2022",
+"amostras": "31649695",
+"amostras_novas": "343055",
+"amostras_pcr": "18158267",
+"amostras_pcr_novas": "100664",
+"amostras_antigenio": "13491428",
+"amostras_antigenio_novas": "242391"
+},
+{
+"data": "21-01-2022",
+"amostras": "32030146",
+"amostras_novas": "380451",
+"amostras_pcr": "18259984",
+"amostras_pcr_novas": "101717",
+"amostras_antigenio": "13770162",
+"amostras_antigenio_novas": "278734"
+},
+{
+"data": "22-01-2022",
+"amostras": "32294085",
+"amostras_novas": "263939",
+"amostras_pcr": "18339815",
+"amostras_pcr_novas": "79831",
+"amostras_antigenio": "13954270",
+"amostras_antigenio_novas": "184108"
+},
+{
+"data": "23-01-2022",
+"amostras": "32450789",
+"amostras_novas": "156704",
+"amostras_pcr": "18400376",
+"amostras_pcr_novas": "60561",
+"amostras_antigenio": "14050413",
+"amostras_antigenio_novas": "96143"
+},
+{
+"data": "24-01-2022",
+"amostras": "32763669",
+"amostras_novas": "312880",
+"amostras_pcr": "18472885",
+"amostras_pcr_novas": "72509",
+"amostras_antigenio": "14290784",
+"amostras_antigenio_novas": "240371"
+},
+{
+"data": "25-01-2022",
+"amostras": "33091055",
+"amostras_novas": "327386",
+"amostras_pcr": "18572888",
+"amostras_pcr_novas": "100003",
+"amostras_antigenio": "14518167",
+"amostras_antigenio_novas": "227383"
+},
+{
+"data": "26-01-2022",
+"amostras": "33409187",
+"amostras_novas": "318132",
+"amostras_pcr": "18677260",
+"amostras_pcr_novas": "104372",
+"amostras_antigenio": "14731927",
+"amostras_antigenio_novas": "213760"
+},
+{
+"data": "27-01-2022",
+"amostras": "33752598",
+"amostras_novas": "343411",
+"amostras_pcr": "18776983",
+"amostras_pcr_novas": "99723",
+"amostras_antigenio": "14975615",
+"amostras_antigenio_novas": "243688"
+},
+{
+"data": "28-01-2022",
+"amostras": "34107155",
+"amostras_novas": "354557",
+"amostras_pcr": "18872694",
+"amostras_pcr_novas": "95711",
+"amostras_antigenio": "15234461",
+"amostras_antigenio_novas": "258846"
+},
+{
+"data": "29-01-2022",
+"amostras": "34360016",
+"amostras_novas": "252861",
+"amostras_pcr": "18953855",
+"amostras_pcr_novas": "81161",
+"amostras_antigenio": "15406161",
+"amostras_antigenio_novas": "171700"
+},
+{
+"data": "30-01-2022",
+"amostras": "34498930",
+"amostras_novas": "138914",
+"amostras_pcr": "19005252",
+"amostras_pcr_novas": "51397",
+"amostras_antigenio": "15493678",
+"amostras_antigenio_novas": "87517"
+},
+{
+"data": "31-01-2022",
+"amostras": "34772184",
+"amostras_novas": "273254",
+"amostras_pcr": "19074709",
+"amostras_pcr_novas": "69457",
+"amostras_antigenio": "15697475",
+"amostras_antigenio_novas": "203797"
+},
+{
+"data": "01-02-2022",
+"amostras": "35021584",
+"amostras_novas": "249400",
+"amostras_pcr": "19170301",
+"amostras_pcr_novas": "95592",
+"amostras_antigenio": "15851283",
+"amostras_antigenio_novas": "153808"
+},
+{
+"data": "02-02-2022",
+"amostras": "35261065",
+"amostras_novas": "239481",
+"amostras_pcr": "19258973",
+"amostras_pcr_novas": "88672",
+"amostras_antigenio": "16002092",
+"amostras_antigenio_novas": "150809"
+},
+{
+"data": "03-02-2022",
+"amostras": "35500336",
+"amostras_novas": "239271",
+"amostras_pcr": "19345839",
+"amostras_pcr_novas": "86866",
+"amostras_antigenio": "16154497",
+"amostras_antigenio_novas": "152405"
+},
+{
+"data": "04-02-2022",
+"amostras": "35751897",
+"amostras_novas": "251561",
+"amostras_pcr": "19424834",
+"amostras_pcr_novas": "78995",
+"amostras_antigenio": "16327063",
+"amostras_antigenio_novas": "172566"
+},
+{
+"data": "05-02-2022",
+"amostras": "35923464",
+"amostras_novas": "171567",
+"amostras_pcr": "19491351",
+"amostras_pcr_novas": "66517",
+"amostras_antigenio": "16432113",
+"amostras_antigenio_novas": "105050"
+},
+{
+"data": "06-02-2022",
+"amostras": "36009956",
+"amostras_novas": "86492",
+"amostras_pcr": "19525330",
+"amostras_pcr_novas": "33979",
+"amostras_antigenio": "16484626",
+"amostras_antigenio_novas": "52513"
+},
+{
+"data": "07-02-2022",
+"amostras": "36183306",
+"amostras_novas": "173350",
+"amostras_pcr": "19571250",
+"amostras_pcr_novas": "45920",
+"amostras_antigenio": "16612056",
+"amostras_antigenio_novas": "127430"
+},
+{
+"data": "08-02-2022",
+"amostras": "36355609",
+"amostras_novas": "172303",
+"amostras_pcr": "19640141",
+"amostras_pcr_novas": "68891",
+"amostras_antigenio": "16715468",
+"amostras_antigenio_novas": "103412"
+},
+{
+"data": "09-02-2022",
+"amostras": "36514985",
+"amostras_novas": "159376",
+"amostras_pcr": "19694256",
+"amostras_pcr_novas": "54115",
+"amostras_antigenio": "16820729",
+"amostras_antigenio_novas": "105261"
+},
+{
+"data": "10-02-2022",
+"amostras": "36665475",
+"amostras_novas": "150490",
+"amostras_pcr": "19742154",
+"amostras_pcr_novas": "47898",
+"amostras_antigenio": "16923321",
+"amostras_antigenio_novas": "102592"
+},
+{
+"data": "11-02-2022",
+"amostras": "36835275",
+"amostras_novas": "169800",
+"amostras_pcr": "19778087",
+"amostras_pcr_novas": "35933",
+"amostras_antigenio": "17057188",
+"amostras_antigenio_novas": "133867"
+},
+{
+"data": "12-02-2022",
+"amostras": "36953359",
+"amostras_novas": "118084",
+"amostras_pcr": "19813523",
+"amostras_pcr_novas": "35436",
+"amostras_antigenio": "17139836",
+"amostras_antigenio_novas": "82648"
+},
+{
+"data": "13-02-2022",
+"amostras": "37004894",
+"amostras_novas": "51535",
+"amostras_pcr": "19830239",
+"amostras_pcr_novas": "16716",
+"amostras_antigenio": "17174655",
+"amostras_antigenio_novas": "34819"
+},
+{
+"data": "14-02-2022",
+"amostras": "37125856",
+"amostras_novas": "120962",
+"amostras_pcr": "19856703",
+"amostras_pcr_novas": "26464",
+"amostras_antigenio": "17269153",
+"amostras_antigenio_novas": "94498"
+},
+{
+"data": "15-02-2022",
+"amostras": "37248188",
+"amostras_novas": "122332",
+"amostras_pcr": "19896302",
+"amostras_pcr_novas": "39599",
+"amostras_antigenio": "17351886",
+"amostras_antigenio_novas": "82733"
+},
+{
+"data": "16-02-2022",
+"amostras": "37362117",
+"amostras_novas": "113929",
+"amostras_pcr": "19927501",
+"amostras_pcr_novas": "31199",
+"amostras_antigenio": "17434616",
+"amostras_antigenio_novas": "82730"
+},
+{
+"data": "17-02-2022",
+"amostras": "37479016",
+"amostras_novas": "116899",
+"amostras_pcr": "19959727",
+"amostras_pcr_novas": "32226",
+"amostras_antigenio": "17519289",
+"amostras_antigenio_novas": "84673"
+},
+{
+"data": "18-02-2022",
+"amostras": "37602525",
+"amostras_novas": "123509",
+"amostras_pcr": "19987640",
+"amostras_pcr_novas": "27913",
+"amostras_antigenio": "17614885",
+"amostras_antigenio_novas": "95596"
+},
+{
+"data": "19-02-2022",
+"amostras": "37674051",
+"amostras_novas": "71526",
+"amostras_pcr": "20007604",
+"amostras_pcr_novas": "19964",
+"amostras_antigenio": "17666447",
+"amostras_antigenio_novas": "51562"
+},
+{
+"data": "20-02-2022",
+"amostras": "37712155",
+"amostras_novas": "38104",
+"amostras_pcr": "20020560",
+"amostras_pcr_novas": "12956",
+"amostras_antigenio": "17691595",
+"amostras_antigenio_novas": "25148"
+},
+{
+"data": "21-02-2022",
+"amostras": "37805639",
+"amostras_novas": "93484",
+"amostras_pcr": "20044600",
+"amostras_pcr_novas": "24040",
+"amostras_antigenio": "17761039",
+"amostras_antigenio_novas": "69444"
+},
+{
+"data": "22-02-2022",
+"amostras": "37941346",
+"amostras_novas": "135707",
+"amostras_pcr": "20073607",
+"amostras_pcr_novas": "29007",
+"amostras_antigenio": "17867739",
+"amostras_antigenio_novas": "106700"
+},
+{
+"data": "23-02-2022",
+"amostras": "38033915",
+"amostras_novas": "92569",
+"amostras_pcr": "20099396",
+"amostras_pcr_novas": "25789",
+"amostras_antigenio": "17934519",
+"amostras_antigenio_novas": "66780"
+},
+{
+"data": "24-02-2022",
+"amostras": "38119866",
+"amostras_novas": "85951",
+"amostras_pcr": "20121372",
+"amostras_pcr_novas": "21976",
+"amostras_antigenio": "17998494",
+"amostras_antigenio_novas": "63975"
+},
+{
+"data": "25-02-2022",
+"amostras": "38212414",
+"amostras_novas": "92548",
+"amostras_pcr": "20142468",
+"amostras_pcr_novas": "21096",
+"amostras_antigenio": "18069946",
+"amostras_antigenio_novas": "71452"
+},
+{
+"data": "26-02-2022",
+"amostras": "38268987",
+"amostras_novas": "56573",
+"amostras_pcr": "20158796",
+"amostras_pcr_novas": "16328",
+"amostras_antigenio": "18110191",
+"amostras_antigenio_novas": "40245"
+},
+{
+"data": "27-02-2022",
+"amostras": "38299468",
+"amostras_novas": "30481",
+"amostras_pcr": "20168499",
+"amostras_pcr_novas": "9703",
+"amostras_antigenio": "18130969",
+"amostras_antigenio_novas": "20778"
+},
+{
+"data": "28-02-2022",
+"amostras": "38383640",
+"amostras_novas": "84172",
+"amostras_pcr": "20187800",
+"amostras_pcr_novas": "19301",
+"amostras_antigenio": "18195840",
+"amostras_antigenio_novas": "64871"
+},
+{
+"data": "01-03-2022",
+"amostras": "38440979",
+"amostras_novas": "57339",
+"amostras_pcr": "20206638",
+"amostras_pcr_novas": "18838",
+"amostras_antigenio": "18234341",
+"amostras_antigenio_novas": "38501"
+},
+{
+"data": "02-03-2022",
+"amostras": "38504478",
+"amostras_novas": "63499",
+"amostras_pcr": "20227713",
+"amostras_pcr_novas": "21075",
+"amostras_antigenio": "18276765",
+"amostras_antigenio_novas": "42424"
+},
+{
+"data": "03-03-2022",
+"amostras": "38580475",
+"amostras_novas": "75997",
+"amostras_pcr": "20254737",
+"amostras_pcr_novas": "27024",
+"amostras_antigenio": "18325738",
+"amostras_antigenio_novas": "48973"
+},
+{
+"data": "04-03-2022",
+"amostras": "38653656",
+"amostras_novas": "73181",
+"amostras_pcr": "20278494",
+"amostras_pcr_novas": "23757",
+"amostras_antigenio": "18375162",
+"amostras_antigenio_novas": "49424"
+},
+{
+"data": "05-03-2022",
+"amostras": "38699855",
+"amostras_novas": "46199",
+"amostras_pcr": "20296009",
+"amostras_pcr_novas": "17515",
+"amostras_antigenio": "18403846",
+"amostras_antigenio_novas": "28684"
+},
+{
+"data": "06-03-2022",
+"amostras": "38727942",
+"amostras_novas": "28087",
+"amostras_pcr": "20308141",
+"amostras_pcr_novas": "12132",
+"amostras_antigenio": "18419801",
+"amostras_antigenio_novas": "15955"
+},
+{
+"data": "07-03-2022",
+"amostras": "38798724",
+"amostras_novas": "70782",
+"amostras_pcr": "20329419",
+"amostras_pcr_novas": "21278",
+"amostras_antigenio": "18469305",
+"amostras_antigenio_novas": "49504"
+},
+{
+"data": "08-03-2022",
+"amostras": "38867127",
+"amostras_novas": "68403",
+"amostras_pcr": "20354954",
+"amostras_pcr_novas": "25535",
+"amostras_antigenio": "18512173",
+"amostras_antigenio_novas": "42868"
+},
+{
+"data": "09-03-2022",
+"amostras": "38930126",
+"amostras_novas": "62999",
+"amostras_pcr": "20377438",
+"amostras_pcr_novas": "22484",
+"amostras_antigenio": "18552688",
+"amostras_antigenio_novas": "40515"
+},
+{
+"data": "10-03-2022",
+"amostras": "38992128",
+"amostras_novas": "62002",
+"amostras_pcr": "20399313",
+"amostras_pcr_novas": "21875",
+"amostras_antigenio": "18592815",
+"amostras_antigenio_novas": "40127"
+},
+{
+"data": "11-03-2022",
+"amostras": "39057671",
+"amostras_novas": "65543",
+"amostras_pcr": "20420045",
+"amostras_pcr_novas": "20732",
+"amostras_antigenio": "18637626",
+"amostras_antigenio_novas": "44811"
+},
+{
+"data": "12-03-2022",
+"amostras": "39098625",
+"amostras_novas": "40954",
+"amostras_pcr": "20435670",
+"amostras_pcr_novas": "15625",
+"amostras_antigenio": "18662955",
+"amostras_antigenio_novas": "25329"
+},
+{
+"data": "13-03-2022",
+"amostras": "39121323",
+"amostras_novas": "22698",
+"amostras_pcr": "20444627",
+"amostras_pcr_novas": "8957",
+"amostras_antigenio": "18676696",
+"amostras_antigenio_novas": "13741"
+},
+{
+"data": "14-03-2022",
+"amostras": "39187700",
+"amostras_novas": "66377",
+"amostras_pcr": "20464335",
+"amostras_pcr_novas": "19708",
+"amostras_antigenio": "18723365",
+"amostras_antigenio_novas": "46669"
+},
+{
+"data": "15-03-2022",
+"amostras": "39253560",
+"amostras_novas": "65860",
+"amostras_pcr": "20491586",
+"amostras_pcr_novas": "27251",
+"amostras_antigenio": "18761974",
+"amostras_antigenio_novas": "38609"
+},
+{
+"data": "16-03-2022",
+"amostras": "39316013",
+"amostras_novas": "62453",
+"amostras_pcr": "20513942",
+"amostras_pcr_novas": "22356",
+"amostras_antigenio": "18802071",
+"amostras_antigenio_novas": "40097"
+},
+{
+"data": "17-03-2022",
+"amostras": "39374947",
+"amostras_novas": "58934",
+"amostras_pcr": "20535282",
+"amostras_pcr_novas": "21340",
+"amostras_antigenio": "18839665",
+"amostras_antigenio_novas": "37594"
+},
+{
+"data": "18-03-2022",
+"amostras": "39436395",
+"amostras_novas": "61448",
+"amostras_pcr": "20554290",
+"amostras_pcr_novas": "19008",
+"amostras_antigenio": "18882105",
+"amostras_antigenio_novas": "42440"
+},
+{
+"data": "19-03-2022",
+"amostras": "39475819",
+"amostras_novas": "39424",
+"amostras_pcr": "20568965",
+"amostras_pcr_novas": "14675",
+"amostras_antigenio": "18906854",
+"amostras_antigenio_novas": "24749"
+},
+{
+"data": "20-03-2022",
+"amostras": "39497750",
+"amostras_novas": "21931",
+"amostras_pcr": "20578126",
+"amostras_pcr_novas": "9161",
+"amostras_antigenio": "18919624",
+"amostras_antigenio_novas": "12770"
+},
+{
+"data": "21-03-2022",
+"amostras": "39561936",
+"amostras_novas": "64186",
+"amostras_pcr": "20599363",
+"amostras_pcr_novas": "21237",
+"amostras_antigenio": "18962573",
+"amostras_antigenio_novas": "42949"
+},
+{
+"data": "22-03-2022",
+"amostras": "39624193",
+"amostras_novas": "62257",
+"amostras_pcr": "20623729",
+"amostras_pcr_novas": "24366",
+"amostras_antigenio": "19000464",
+"amostras_antigenio_novas": "37891"
+},
+{
+"data": "23-03-2022",
+"amostras": "39680040",
+"amostras_novas": "55847",
+"amostras_pcr": "20643672",
+"amostras_pcr_novas": "19943",
+"amostras_antigenio": "19036368",
+"amostras_antigenio_novas": "35904"
+},
+{
+"data": "24-03-2022",
+"amostras": "39734174",
+"amostras_novas": "54134",
+"amostras_pcr": "20661773",
+"amostras_pcr_novas": "18101",
+"amostras_antigenio": "19072401",
+"amostras_antigenio_novas": "36033"
+},
+{
+"data": "25-03-2022",
+"amostras": "39793320",
+"amostras_novas": "59146",
+"amostras_pcr": "20680704",
+"amostras_pcr_novas": "18931",
+"amostras_antigenio": "19112616",
+"amostras_antigenio_novas": "40215"
+}
+]

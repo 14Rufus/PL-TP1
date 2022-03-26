@@ -1,4 +1,4 @@
-Número,Nome,Turno,Grupo_Um{4},,,,Grupo_Um{4}::avg,,,,Professor_Corretor,Grupo_Dois{4},,,,Grupo_Dois{4}::avg,,,,Professor_Corretor_dois,Notas{2,4}::avg,,,,
+Número,Nome,Turno,Grupo_Um{4},,,,Grupo_Um{4}::sum,,,,Professor_Corretor,Grupo_Dois{4},,,,Grupo_Dois{4}::avg,,,,Professor_Corretor_dois,Notas{2,4}::avg,,,,
 1234,André Barros,PL1,12,13,14,15,12,13,14,15,João Fernandes,13,14,15,16,13,14,15,16,João Fernandes,12,13,14,15
 2345,Bernardo Cunha,PL2,13,14,15,16,13,14,15,16,João Fernandes,14,15,16,17,14,15,16,17,João Fernandes,13,14,15,
 3456,Carlos Dias,PL3,14,15,16,17,14,15,16,17,João Fernandes,11,12,13,14,11,12,13,14,João Fernandes,14,15,,
