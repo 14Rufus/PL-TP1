@@ -1,0 +1,74 @@
+[
+{
+"Número": "1234",
+"Nome": "André Barros",
+"Turno": "PL1",
+"Grupo_Um":[12,13,14,15],
+"Grupo_Um_avg": 14.0,
+"Professor_Corretor": "João Fernandes",
+"Grupo_Dois":[13,14,15,16],
+"Grupo_Dois_avg": 14.0,
+"Professor_Corretor_dois": "João Fernandes",
+"Notas_avg": 13.5
+},
+{
+"Número": "2345",
+"Nome": "Bernardo Cunha",
+"Turno": "PL2",
+"Grupo_Um":[13,14,15,16],
+"Grupo_Um_avg": 14.93,
+"Professor_Corretor": "João Fernandes",
+"Grupo_Dois":[14,15,16,17],
+"Grupo_Dois_avg": 14.86,
+"Professor_Corretor_dois": "João Fernandes",
+"Notas_avg": 14.0
+},
+{
+"Número": "3456",
+"Nome": "Carlos Dias",
+"Turno": "PL3",
+"Grupo_Um":[14,15,16,17],
+"Grupo_Um_avg": 13.64,
+"Professor_Corretor": "João Fernandes",
+"Grupo_Dois":[11,12,13,14],
+"Grupo_Dois_avg": 13.17,
+"Professor_Corretor_dois": "João Fernandes",
+"Notas_avg": 14.5
+},
+{
+"Número": "4567",
+"Nome": "Diogo Eduardo",
+"Turno": "PL4",
+"Grupo_Um":[7,8,9,10],
+"Grupo_Um_avg": 11.8,
+"Professor_Corretor": "João Fernandes",
+"Grupo_Dois":[13,14,15,16],
+"Grupo_Dois_avg": 12.14,
+"Professor_Corretor_dois": "João Fernandes7",
+"Notas_avg": 9.0
+},
+{
+"Número": "5678",
+"Nome": "Erick Fernandes",
+"Turno": "PL5",
+"Grupo_Um":[6,8,9,10],
+"Grupo_Um_avg": 10.93,
+"Professor_Corretor": "João Fernandes",
+"Grupo_Dois":[12,13,14,15],
+"Grupo_Dois_avg": 11.0,
+"Professor_Corretor_dois": "João Fernandes",
+"Notas_avg": 7.67
+},
+{
+"Número": "6789",
+"Nome": "Frederico Gil",
+"Turno": "PL6",
+"Grupo_Um":[11,12,13,14],
+"Grupo_Um_avg": 14.0,
+"Professor_Corretor": "João Fernandes",
+"Grupo_Dois":[14,15,16,17],
+"Grupo_Dois_avg": 14.0,
+"Professor_Corretor_dois": "João Fernandes",
+"Notas_avg": 12.5
+}
+]

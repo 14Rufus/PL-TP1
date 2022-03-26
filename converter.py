@@ -1,5 +1,5 @@
 import re
-import csv
+#import csv
 
 def isInt (dados):
         return re.search(r'^(-)?[0-9]+$', dados)
@@ -20,7 +20,7 @@ def calculaAvg(dados, campo):
             lista.append (int(dado))
        else:
             pass
-    media = sum(lista)/len(lista)
+    media = round (sum(lista)/len(lista), 2) # round (x,2) maximiza a media em 2 casas decimais
     campo = re.sub(r'{\d+(}::avg)?', r'_avg', campo)
     return ("\"" + campo + "\": " + str(media))
 
@@ -37,39 +37,11 @@ def calculaSum(dados, campo):
     return ("\"" + campo + "\": " + str(soma))
 
 
-#### EXTRAS #####
-def calculaMax(dados, campo):
-    lista = list()
-    for dado in dados:
-       if isInt(dado):
-            lista.append (int(dado))
-       else:
-            pass
-    maximo = max(lista)
-    campo = re.sub(r'{\d+(}::max)?', r'_max', campo)
-    return ("\"" + campo + "\": " + str(maximo))
-
-
-def calculaMin(dados, campo):
-    lista = list()
-    for dado in dados:
-       if isInt(dado):
-            lista.append (int(dado))
-       else:
-            pass
-    minimo = min(lista)
-    campo = re.sub(r'{\d+(}::min)?', r'_min', campo)
-    return ("\"" + campo + "\": " + str(minimo))
-################################################
-
-
 
 def converter (csv, fileOutput, separator):
-        file = open(csv)
+        file = open(csv, encoding="utf8")
         fileOutput = open(fileOutput, 'w')
         first_line = file.readline()
-
-
         campos = re.split(separator, first_line.strip())
         # Numero, Nome, Turno, Notas{2}, '', ''
         output = ""
@@ -90,15 +62,6 @@ def converter (csv, fileOutput, separator):
                                         valor = valores[i:]
                                         output += calculaSum(valor, campos[i])
                                         output += ",\n"
-                                elif re.search(r'[Mm][Aa][Xx]', campos[i]):
-                                        valor = valores[i:]
-                                        output += calculaMax(valor, campos[i])
-                                        output += ",\n"
-
-                                elif re.search(r'[Mm][Ii][Nn]', campos[i]):
-                                        valor = valores[i:]
-                                        output += calculaMin(valor, campos[i])
-                                        output += ",\n"
 
                                 else:
                                         result = re.search(r'(\d+)', campos[i])
@@ -107,8 +70,11 @@ def converter (csv, fileOutput, separator):
                                         while (x+1<int(result.group(1))): 
                                                 output +=( valores[i+x] + ",")
                                                 x+=1
-                                        print ("como???")
-                                        output += (valores[i+x]+"]\n")
+                                        #add ,
+                                        output += (valores[i+x]+"],\n")
+                                        output = re.sub(r'{\d+}','', output)
+                                        if (not(campos[i+1] == '')):
+                                                output += ",\n"
                         
                         elif campos[i] == '':
                                 pass
@@ -125,15 +91,6 @@ def converter (csv, fileOutput, separator):
                                         valor = valores[i:]
                                         output += calculaSum(valor, campos[i])
                                         output += ",\n"
-                                elif re.search(r'[Mm][Aa][Xx]', campos[i+1]):
-                                        valor = valores[i:]
-                                        output += calculaMax(valor, campos[i])
-                                        output += ",\n"
-
-                                elif re.search(r'[Mm][Ii][Nn]', campos[i+1]):
-                                        valor = valores[i:]
-                                        output += calculaMin(valor, campos[i])
-                                        output += ",\n"
 
                                 else:
                                         r2 = int ((re.search(r'(\d+)', campos[i+1])).group(1)) #4}
@@ -143,7 +100,9 @@ def converter (csv, fileOutput, separator):
                                         while (x+1 < r2):
                                                 output += ( valores[i+x] + ",")
                                                 x+=1
-                                        output += (valores[i+x] +"]\n")
+                                        #add ,
+                                        output += (valores[i+x] +"],\n")                        
+                                        output = re.sub(r'{\d+,\d+}','', output)
                                         output = re.sub(r',+\]',']', output)
                                         
                                         
@@ -154,7 +113,6 @@ def converter (csv, fileOutput, separator):
                 output += ("},\n")
         
         output += ("]")
-
         output = re.sub(r",\n}", r"\n}", output)
         output = re.sub(r"},\n]", r"}\n]", output)
         fileOutput.write(output)    
